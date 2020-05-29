@@ -1,0 +1,1086 @@
+﻿id,location,country,gender,age,symptom_onset,visiting Wuhan,from Wuhan,death,recovered,link
+1,"Shenzhen, Guangdong",China,male,66,01-03-2020,1,0,0,0,http://wjw.sz.gov.cn/wzx/202001/t20200120_18987787.htm
+2,Shanghai,China,female,56,1/15/2020,0,1,0,0,https://www.weibo.com/2372649470/IqogQhgfa?from=page_1001062372649470_profile&wvr=6&mod=weibotime&type=comment
+3,Zhejiang,China,male,46,01-04-2020,0,1,0,0,http://www.zjwjw.gov.cn/art/2020/1/21/art_1202101_41786033.html
+4,Tianjin,China,female,60,NA,1,0,0,0,https://m.weibo.cn/status/4463235401268457?
+5,Tianjin,China,male,58,NA,0,0,0,0,https://m.weibo.cn/status/4463235401268457?
+6,Chongqing,China,female,44,1/15/2020,0,1,0,0,http://wsjkw.cq.gov.cn/tzgg/20200121/249730.html
+7,Sichuan,China,male,34,01-11-2020,0,1,0,0,https://m.weibo.cn/status/4463300522087848?
+8,Beijing,China,male,37,1/14/2020,1,0,0,0,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+9,Beijing,China,male,39,01-09-2020,1,0,0,0,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+10,Beijing,China,male,56,1/16/2020,1,0,0,0,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+11,Beijing,China,female,18,1/19/2020,1,0,0,0,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+12,Beijing,China,female,32,01/15/2020,1,0,0,0,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+13,Shandong,China,male,37,NA,1,0,0,0,https://m.weibo.cn/status/4463323540564718?
+14,Yunnan,China,male,51,1/16/2020,0,1,0,0,https://m.weibo.cn/status/4463321081961974?
+15,Sichuan,China,male,57,1/16/2020,0,1,0,0,https://www.weibo.com/2656274875/IqzRU3150?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579669764455
+16,Jiangxi,China,male,56,01-10-2020,1,0,0,0,https://www.weibo.com/2656274875/IqAcyp3Jr?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579669997545
+17,Jiangxi,China,male,50,01-10-2020,1,0,0,0,https://www.weibo.com/2656274875/IqAcyp3Jr?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579669997545
+18,Macau,China,female,52,1/14/2020,0,1,0,0,https://www.weibo.com/2656274875/IqDIS0pET?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579670405515
+19,Liaoning,China,male,33,01-11-2020,1,0,0,0,https://www.weibo.com/2656274875/IqFFYc2Gv?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579699253938
+20,Liaoning,China,male,40,1/14/2020,1,0,0,0,https://www.weibo.com/2656274875/IqFFYc2Gv?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579699253938
+21,Fujian,China,male,70,NA,1,0,0,0,https://www.weibo.com/2803301701/IqGpc5njk?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579700150699
+22,Guizhou,China,male,51,1/14/2020,0,1,0,0,https://www.weibo.com/2803301701/IqGtrCQPF?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579700189479
+23,Shanxi,China,male,NA,1/19/2020,1,0,0,0,https://www.weibo.com/2656274875/IqGCB0OTO?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579700655907
+24,Sichuan,China,female,28,1/19/2020,1,0,0,0,https://www.weibo.com/2656274875/IqGDxbyp4?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579700789935
+25,Sichuan,China,male,37,1/20/2020,1,0,0,0,https://www.weibo.com/2656274875/IqGDxbyp4?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579700789935
+26,Sichuan,China,male,19,1/20/2020,1,0,0,0,https://www.weibo.com/2656274875/IqGDxbyp4?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579700789935
+27,Ningxia,China,male,29,NA,1,0,0,0,https://www.weibo.com/2656274875/IqGRMsgUh?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579701110319
+28,Guangxi,China,female,66,1/17/2020,0,1,0,0,https://www.weibo.com/2803301701/IqGTwh0C1?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579701274138
+29,Guangxi,China,male,46,1/20/2020,0,0,0,0,https://www.weibo.com/2803301701/IqGTwh0C1?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579701274138
+30,Henan,China,female,32,NA,0,1,0,0,https://www.weibo.com/2803301701/IqGV4lCay?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579701703144
+31,Henan,China,male,28,NA,1,0,0,0,https://www.weibo.com/2803301701/IqGV4lCay?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579701703144
+32,Henan,China,male,55,NA,0,1,0,0,https://www.weibo.com/2803301701/IqGV4lCay?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579701703144
+33,Henan,China,male,68,NA,0,1,0,0,https://www.weibo.com/2803301701/IqGV4lCay?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579701703144
+34,Shandong,China,male,38,1/20/2020,0,0,0,0,https://wap.peopleapp.com/article/5068189/4962549
+35,Hebei,China,male,72,1/19/2020,0,1,0,0,https://www.weibo.com/2803301701/IqIgXzszS?filter=hot&root_comment_id=0&type=comment#_rnd1579733299141
+36,Beijing,China,male,45,1/19/2020,1,0,0,0,https://m.weibo.cn/status/4463681624289721?
+37,Beijing,China,male,42,1/20/2020,1,0,0,0,https://m.weibo.cn/status/4463681624289721?
+38,Beijing,China,female,33,NA,0,1,0,0,https://m.weibo.cn/status/4463681624289721?
+39,Beijing,China,female,33,NA,0,1,0,0,https://m.weibo.cn/status/4463681624289721?
+40,Jiangsu,China,male,37,NA,1,0,0,0,https://m.weibo.cn/status/4463686238777844?
+41,Heilongjiang,China,male,69,NA,1,0,0,0,https://m.weibo.cn/status/4463700323132715?
+42,Guangxi,China,male,63,1/14/2020,0,1,0,0,https://www.weibo.com/2656274875/IqJdjB2oy?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579750975842
+43,Guangxi,China,female,62,01-09-2020,0,1,0,0,https://www.weibo.com/2656274875/IqJdjB2oy?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579750975842
+44,Guangxi,China,male,49,1/21/2020,0,1,0,0,https://www.weibo.com/2656274875/IqJdjB2oy?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1579750975842
+45,Sichuan,China,male,50,1/18/2020,1,0,0,0,https://m.weibo.cn/status/4463841306422942?
+46,Sichuan,China,male,48,1/18/2020,1,0,0,0,https://m.weibo.cn/status/4463841306422942?
+47,Sichuan,China,male,36,1/18/2020,1,0,0,0,https://m.weibo.cn/status/4463841306422942?
+48,Jilin,China,female,36,1/19/2020,1,0,0,0,https://m.weibo.cn/status/4463853884470907?
+49,"Wuhan, Hubei",China,male,61,12/20/2019,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+50,"Wuhan, Hubei",China,male,69,12/30/2019,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+51,"Wuhan, Hubei",China,male,89,01-08-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+52,"Wuhan, Hubei",China,male,89,01/13/2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+53,"Wuhan, Hubei",China,male,66,01-10-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+54,"Wuhan, Hubei",China,male,75,01-12-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+55,"Wuhan, Hubei",China,female,48,12-10-2019,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+56,"Wuhan, Hubei",China,male,82,01-09-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+57,"Wuhan, Hubei",China,male,66,12/22/2019,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+58,"Wuhan, Hubei",China,male,81,1/15/2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+59,"Wuhan, Hubei",China,female,82,NA,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+60,"Wuhan, Hubei",China,male,65,01-05-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+61,"Wuhan, Hubei",China,female,80,01-09-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+62,"Wuhan, Hubei",China,male,53,NA,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+63,"Wuhan, Hubei",China,male,86,01-02-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+64,"Wuhan, Hubei",China,female,70,NA,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+65,"Wuhan, Hubei",China,male,84,01-06-2020,0,1,1,0,http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml
+66,Liaoning,China,female,50,1/16/2020,1,0,0,0,https://m.weibo.cn/status/4463859978946325?
+67,Hunan,China,male,40,01-05-2020,1,0,0,0,https://m.weibo.cn/status/4463860260361454?
+68,Hunan,China,male,45,1/16/2020,1,0,0,0,https://m.weibo.cn/status/4463860260361454?
+69,Hunan,China,female,66,1/17/2020,1,0,0,0,https://m.weibo.cn/status/4463860260361454?
+70,Hunan,China,male,59,1/16/2020,1,0,0,0,https://m.weibo.cn/status/4463860260361454?
+71,Hunan,China,female,23,1/16/2020,1,0,0,0,https://m.weibo.cn/status/4463874360972840?
+72,Guizhou,China,female,50,1/14/2020,0,0,0,0,https://m.weibo.cn/status/4463876156726203?
+73,Gansu,China,male,43,1/18/2020,0,0,0,0,https://m.weibo.cn/status/4463886797528385?
+74,Heilongjiang,China,male,49,1/23/2020,1,0,0,0,https://m.weibo.cn/status/4463892727709344?
+75,Shanxi (陕西),China,male,42,1/20/2020,1,0,0,0,https://www.weibo.com/2803301701/IqPMidEzh?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579799658694
+76,Shanxi (陕西),China,female,32,1/16/2020,1,0,0,0,https://www.weibo.com/2803301701/IqPMidEzh?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579799658694
+77,Shanxi (陕西),China,male,22,1/20/2020,1,0,0,0,https://www.weibo.com/2803301701/IqPMidEzh?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1579799658694
+78,Xinjiang,China,male,47,NA,1,0,0,0,https://www.weibo.com/2656274875/IqPPzg76l?ref=home&rid=3_0_202_2667274531628325700_0_0_0&type=comment#_rnd1579802134846
+79,Xinjiang,China,male,52,NA,1,0,0,0,https://www.weibo.com/2656274875/IqPPzg76l?ref=home&rid=3_0_202_2667274531628325700_0_0_0&type=comment#_rnd1579802134846
+80,Yunnan,China,male,53,NA,0,1,0,0,https://m.weibo.cn/status/4464047963266414?
+81,Tianjin,China,male,46,NA,0,0,0,0,https://m.weibo.cn/status/4464091609170082?
+82,Hubei,China,female,85,NA,0,0,1,0,https://m.weibo.cn/status/4464187650423052?
+83,Hubei,China,female,69,1/14/2020,0,0,1,0,https://m.weibo.cn/status/4464187650423052?
+84,Hubei,China,male,36,01-06-2020,0,0,1,0,https://m.weibo.cn/status/4464187650423052?
+85,Hubei,China,male,73,12/29/2019,0,0,1,0,https://m.weibo.cn/status/4464187650423052?
+86,Hubei,China,female,70,1/15/2020,0,0,1,0,https://m.weibo.cn/status/4464187650423052?
+87,Hubei,China,male,81,01-09-2020,0,0,1,0,https://m.weibo.cn/status/4464187650423052?
+88,Hubei,China,female,65,NA,0,0,1,0,https://m.weibo.cn/status/4464187650423052?
+89,Liaoning,China,male,42,1/19/2020,1,0,0,0,https://m.weibo.cn/status/4464215920401389?
+90,Inner Mongolia,China,male,30,NA,0,1,0,0,https://news.sina.com.cn/o/2020-01-24/doc-iihnzahk6106154.shtml
+91,Tianjin,China,female,29,1/24/2020,1,0,0,0,https://m.weibo.cn/status/4464245485576951?
+92,Beijing,China,female,NA,NA,1,0,0,0,https://m.weibo.cn/status/4464259805726673?
+93,Shaanxi,China,male,49,1/19/2020,1,0,0,0,https://m.weibo.cn/status/4464334383801217?
+94,Shaanxi,China,male,23,NA,1,0,0,0,https://m.weibo.cn/status/4464334383801217?
+95,Shanghai,China,female,56,01-10-2020,0,1,0,0,https://m.weibo.cn/status/4464354512805408?
+96,Tianjin,China,male,39,NA,1,0,0,0,https://m.weibo.cn/status/4464377615340049?
+97,Yunnan,China,female,39,NA,1,0,0,0,https://m.weibo.cn/status/4464403249912789?
+98,Yunnan,China,female,34,NA,0,1,0,0,https://m.weibo.cn/status/4464403249912789?
+99,Yunnan,China,male,49,NA,0,0,0,0,https://m.weibo.cn/status/4464403249912789?
+100,"Wuhan, Hubei",China,male,70,1/15/2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+101,"Wuhan, Hubei",China,female,76,01-08-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+102,"Wuhan, Hubei",China,male,72,01-11-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+103,"Wuhan, Hubei",China,male,79,01-11-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+104,"Wuhan, Hubei",China,male,55,01-09-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+105,"Wuhan, Hubei",China,male,87,01-12-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+106,"Wuhan, Hubei",China,female,66,01-09-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+107,"Wuhan, Hubei",China,male,58,01-03-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+108,"Wuhan, Hubei",China,male,66,NA,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+109,"Wuhan, Hubei",China,male,78,1/13/2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+110,"Wuhan, Hubei",China,male,67,01-10-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+111,"Wuhan, Hubei",China,male,65,01-12-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+112,"Wuhan, Hubei",China,male,58,12/23/2019,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+113,"Wuhan, Hubei",China,female,67,01-05-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+114,"Wuhan, Hubei",China,female,82,01-10-2020,0,1,1,0,https://m.weibo.cn/status/4464497211305006?
+115,"Hechi, Guangxi",China,female,49,1/21/2020,1,0,0,0,https://m.weibo.cn/status/4464573899858585?
+116,"Hechi, Guangxi",China,female,2,1/22/2020,1,0,0,0,https://m.weibo.cn/status/4464573899858585?
+117,Beijing,China,male,NA,NA,1,0,0,0,https://m.weibo.cn/status/4464576223073059?
+118,Tianjin,China,female,59,1/14/2020,1,0,0,0,https://m.weibo.cn/status/4463235401268457?
+119,Tianjin,China,male,57,1/18/2020,1,0,0,0,https://m.weibo.cn/status/4463235401268457?
+120,Tianjin,China,female,68,1/14/2020,1,0,0,0,https://m.weibo.cn/status/4463540671056698?
+121,Tianjin,China,male,40,1/14/2020,1,0,0,0,https://m.weibo.cn/status/4463540671056698?
+122,Tianjin,China,male,46,1/15/2020,0,0,0,0,https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%A9%E6%B4%A5%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A6%E4%BE%8B%23&extparam=%23%E5%A4%A9%E6%B4%A5%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A6%E4%BE%8B%23&luicode=10000011&lfid=1076032803301701
+123,Tianjin,China,male,56,1/19/2020,0,0,0,0,https://m.weibo.cn/status/4464245485576951?， https://m.weibo.cn/status/4464629113599955?
+124,Tianjin,China,female,29,1/24/2020,1,0,0,0,https://m.weibo.cn/status/4464245485576951?
+125,Tianjin,China,male,29,1/23/2020,1,0,0,0,https://m.weibo.cn/status/4464377615340049?
+126,Tianjin,China,male,57,1/24/2020,1,0,0,0,https://m.weibo.cn/status/4464629113599955?
+127,Tianjin,China,male,30,1/24/2020,1,0,0,0,https://m.weibo.cn/status/4464681265155125?
+128,Gansu,China,female,33,1/18/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+129,Gansu,China,female,20,1/19/2020,0,1,0,0,https://m.weibo.cn/status/4464630291922122?
+130,Shaanxi,China,female,24,1/19/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+131,Shaanxi,China,male,28,1/21/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+132,Shaanxi,China,male,41,1/14/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+133,Shaanxi,China,male,46,1/23/2020,0,1,0,0,https://m.weibo.cn/status/4464630291922122?
+134,Shaanxi,China,female,45,1/23/2020,0,1,0,0,https://m.weibo.cn/status/4464630291922122?
+135,Shaanxi,China,female,9,1/21/2020,0,1,0,0,https://m.weibo.cn/status/4464630291922122?
+136,Shaanxi,China,male,40,1/23/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+137,Shaanxi,China,male,28,1/20/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+138,Shaanxi,China,male,27,1/21/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+139,Shaanxi,China,male,15,1/21/2020,1,0,0,0,https://m.weibo.cn/status/4464630291922122?
+140,Yunnan,China,female,42,NA,1,0,0,0,https://m.weibo.cn/status/4464694486320817?
+141,Yunnan,China,male,24,NA,1,0,0,0,https://m.weibo.cn/status/4464694486320817?
+142,Yunnan,China,female,32,NA,0,1,0,0,https://m.weibo.cn/status/4464694486320817?
+143,Yunnan,China,male,34,NA,0,1,0,0,https://m.weibo.cn/status/4464694486320817?
+144,Yunnan,China,male,63,NA,0,1,0,0,https://m.weibo.cn/status/4464694486320817?
+145,Yunnan,China,male,58,NA,1,0,0,0,https://m.weibo.cn/status/4464694486320817?
+146,Beijing,China,male,NA,1/16/2020,1,0,0,0,https://m.weibo.cn/status/4464865911441959?
+147,Beijing,China,male,NA,1/14/2020,1,0,0,0,https://m.weibo.cn/status/4464865911441959?
+148,Beijing,China,male,NA,1/18/2020,0,0,0,0,https://m.weibo.cn/status/4464865911441959?
+149,Xinjiang,China,male,49,1/21/2020,0,0,0,0,https://m.weibo.cn/status/4464913298579676
+150,Ningxia,China,male,33,1/22/2020,1,0,0,0,https://m.weibo.cn/status/4464922761558095?
+151,Tianjin,China,female,55,1/23/2020,0,0,0,0,https://m.weibo.cn/status/4464681265155125?
+152,Tianjin,China,female,79,1/24/2020,0,0,0,0,https://m.weibo.cn/status/4464681265155125?
+153,Tianjin,China,female,19,1/19/2020,0,0,0,0,https://m.weibo.cn/status/4464681265155125?
+154,Macau,China,female,58,1/23/2020,0,1,0,0,https://m.weibo.cn/status/4464933322145082?
+155,Macau,China,female,39,1/25/2020,0,1,0,0,https://m.weibo.cn/status/4464933322145082?
+156,Macau,China,female,21,1/25/2020,0,1,0,0,https://m.weibo.cn/status/4464933322145082?
+157,Shaanxi,China,female,30,NA,0,0,0,0,https://m.weibo.cn/status/4464954491480577?
+158,Shaanxi,China,female,64,01-10-2020,1,0,0,0,https://m.weibo.cn/status/4464954491480577?
+159,Shaanxi,China,male,44,1/18/2020,1,0,0,0,https://m.weibo.cn/status/4464954491480577?
+160,Shaanxi,China,female,70,1/23/2020,0,1,0,0,https://m.weibo.cn/status/4464954491480577?
+161,Shaanxi,China,female,52,NA,0,0,0,0,https://m.weibo.cn/status/4464954491480577?
+162,Shaanxi,China,female,32,1/17/2020,0,0,0,0,https://m.weibo.cn/status/4464954491480577?
+163,Shaanxi,China,male,33,NA,0,0,0,0,https://m.weibo.cn/status/4464954491480577?
+164,Tianjin,China,male,71,1/25/2020,0,1,0,0,https://m.weibo.cn/status/4465066470424159?
+165,Yunnan,China,male,31,NA,0,1,0,0,https://m.weibo.cn/status/4465089497103961?
+166,Yunnan,China,female,48,NA,0,1,0,0,https://m.weibo.cn/status/4465089497103961?
+167,Yunnan,China,female,19,NA,1,0,0,0,https://m.weibo.cn/status/4465089497103961?
+168,Yunnan,China,female,68,NA,0,1,0,0,https://m.weibo.cn/status/4465089497103961?
+169,Yunnan,China,male,71,NA,0,1,0,0,https://m.weibo.cn/status/4465089497103961?
+170,Beijing,China,male,35,1/18/2020,0,NA,0,0,https://m.weibo.cn/status/4465361728673224?
+171,Beijing,China,female,4,1/18/2020,0,NA,0,0,https://m.weibo.cn/status/4465361728673224?
+172,Beijing,China,male,38,1/22/2020,1,NA,0,0,https://m.weibo.cn/status/4465361728673224?
+173,Beijing,China,female,69,01-10-2020,1,NA,0,0,https://m.weibo.cn/status/4465361728673224?
+174,Tianjin,China,male,50,1/25/2020,1,0,0,0,https://m.weibo.cn/status/4465317616829488?
+175,Tianjin,China,male,78,1/21/2020,0,0,0,0,https://m.weibo.cn/status/4465317616829488?
+176,Tianjin,China,male,49,1/26/2020,0,0,0,0,https://m.weibo.cn/status/4465317616829488?
+177,Guizhou,China,male,34,NA,1,0,0,0,https://m.weibo.cn/status/4465268958842261?
+178,Jilin,China,male,NA,1/25/2020,1,0,0,0,https://m.weibo.cn/status/4465271530230929?
+179,Yunnan,China,female,55,NA,0,1,0,0,https://m.weibo.cn/status/4465271752620554?
+180,Yunnan,China,female,36,NA,0,1,0,0,https://m.weibo.cn/status/4465271752620554?
+181,Yunnan,China,male,65,NA,0,1,0,0,https://m.weibo.cn/status/4465271752620554?
+182,Jiangxi,China,male,38,NA,1,0,0,0,https://m.weibo.cn/status/4465313322604123?
+183,Shaanxi,China,female,36,01/21/2020,0,1,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+184,Shaanxi,China,male,18,01/20/2020,0,1,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+185,Shaanxi,China,male,50,01/18/2020,1,0,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+186,Shaanxi,China,female,40,01/18/2020,1,0,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+187,Shaanxi,China,female,63,01-10-2020,0,1,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+188,Shaanxi,China,female,47,01/21/2020,0,1,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+189,Shaanxi,China,female,42,01/23/2020,1,0,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+190,Shaanxi,China,male,48,01/17/2020,0,0,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+191,Shaanxi,China,male,39,01/23/2020,1,0,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+192,Shaanxi,China,female,41,01/22/2020,1,0,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+193,Shaanxi,China,male,31,NA,0,1,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+194,Shaanxi,China,male,27,01/22/2020,0,1,0,0,http://sxwjw.shaanxi.gov.cn/art/2020/1/27/art_9_67483.html
+195,Hubei,China,female,28,01-07-2020,0,1,0,1,https://m.weibo.cn/status/4465382079294013?
+196,Hubei,China,female,51,NA,0,1,0,1,https://m.weibo.cn/status/4465382079294013?
+197,Shandong,China,male,37,NA,0,1,0,1,https://m.weibo.cn/status/4465385308652598?
+198,Bordeaux,France,male,48,1/23/2020,1,0,0,0,https://www.cnbc.com/2020/01/25/reuters-america-update-2-coronavirus-patients-arrived-in-france-without-symptoms.html
+199,Paris,France,male,31,1/19/2020,0,1,0,1,https://newseu.cgtn.com/news/2020-01-26/Coronavirus-patients-treated-in-hospital-in-France-doing-well--Nyjdge1t96/index.html
+200,Paris,France,female,30,1/23/2020,0,1,0,1,https://newseu.cgtn.com/news/2020-01-26/Coronavirus-patients-treated-in-hospital-in-France-doing-well--Nyjdge1t96/index.html
+201,Paris,France,male,80,1/25/2020,0,1,1,0,https://www.thelocal.de/20200128/number-of-german-coronavirus-patients-jumps-to-four
+202,Paris,France,female,NA,NA,1,0,0,0,https://www.thelocal.fr/20200131/coronavirus-in-france-what-you-need-to-know
+203,Paris,France,NA,NA,NA,0,0,0,0,https://www.thelocal.fr/20200131/coronavirus-in-france-what-you-need-to-know
+204,France,France,NA,9,NA,0,0,0,0,https://www.bloomberg.com/news/articles/2020-02-08/five-britons-on-ski-holiday-in-french-alps-contract-coronavirus
+205,France,France,NA,NA,NA,0,0,0,0,https://www.bloomberg.com/news/articles/2020-02-08/five-britons-on-ski-holiday-in-french-alps-contract-coronavirus
+206,France,France,NA,NA,NA,0,0,0,0,https://www.bloomberg.com/news/articles/2020-02-08/five-britons-on-ski-holiday-in-french-alps-contract-coronavirus
+207,France,France,NA,NA,NA,0,0,0,0,https://www.bloomberg.com/news/articles/2020-02-08/five-britons-on-ski-holiday-in-french-alps-contract-coronavirus
+208,France,France,NA,NA,NA,0,0,0,0,https://www.bloomberg.com/news/articles/2020-02-08/five-britons-on-ski-holiday-in-french-alps-contract-coronavirus
+209,France,France,NA,NA,NA,0,0,0,0,https://metro.co.uk/2020/02/15/sixth-brit-visited-french-ski-chalet-tests-positive-coronavirus-12247228/
+210,Paris,France,female,33,NA,0,0,0,0,https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/coronavirus-questions-reponses
+211,Annecy,France,male,63,NA,0,0,0,0,https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/coronavirus-questions-reponses
+212,Amiens,France,male,55,NA,0,0,0,0,https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/coronavirus-questions-reponses
+213,Strasbourg,France,male,36,NA,0,0,0,0,https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/coronavirus-questions-reponses
+214,Paris,France,male,60,NA,0,0,1,0,https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/coronavirus-questions-reponses
+215,Annecy,France,female,60,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471495
+216,Paris,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471496
+217,Paris,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471497
+218,Saint-Mande,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471498
+219,Saint-Mande,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471499
+220,Saint-Mande,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471500
+221,Saint-Mande,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471501
+222,Saint-Mande,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471502
+223,Dijon,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471503
+224,Dijon,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471504
+225,Dijon,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471505
+226,Lile,France,male,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471506
+227,Nantes,France,female,58,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471507
+228,Montpellier,France,male,31,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471508
+229,Paris,France,NA,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471509
+230,Brest,France,male,72,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471510
+231,Dijon,France,male,NA,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471511
+232,Lyon,France,male,50,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471512
+233,Annecy,France,NA,65,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471513
+234,Annecy,France,female,35,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471514
+235,Bois-Guillaume,France,male,NA,2/24/2020,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471515
+236,Nice,France,female,23,NA,0,0,0,0,https://www.nicematin.com/sante/un-premier-cas-de-coronavirus-confirme-dans-les-alpes-maritimes-471516
+237,Kanagawa,Japan,male,35,01-03-2020,1,0,0,1,https://www3.nhk.or.jp/nhkworld/en/news/20200116_23/
+238,Tokyo,Japan,male,45,1/14/2020,0,1,0,0,https://www3.nhk.or.jp/nhkworld/en/news/20200124_14/
+239,Tokyo,Japan,female,35,1/21/2020,0,1,0,0,https://www.japantimes.co.jp/news/2020/01/25/national/japan-confirms-third-case-new-coronavirus/#.Xi9IJs5Kg2w
+240,Aichi Prefecture,Japan,male,45,1/23/2020,0,1,0,0,https://www3.nhk.or.jp/nhkworld/en/news/20200126_31/
+241,Aichi Prefecture,Japan,male,45,1/22/2020,0,1,0,0,https://english.kyodonews.net/news/2020/01/e8f47252a245-urgent-japan-sees-1st-coronavirus-case-not-linked-to-recent-travel-to-china.html
+242,Nara Prefecture,Japan,male,65,1/14/2020,0,0,0,0,https://english.kyodonews.net/news/2020/01/e8f47252a245-urgent-japan-sees-1st-coronavirus-case-not-linked-to-recent-travel-to-china.html
+243,Hokkaido,Japan,female,45,1/26/2020,1,1,0,0,https://english.kyodonews.net/news/2020/01/e8f47252a245-urgent-japan-sees-1st-coronavirus-case-not-linked-to-recent-travel-to-china.html
+244,Osaka Prefecture,Japan,female,45,1/20/2020,0,0,0,0,https://www3.nhk.or.jp/nhkworld/en/news/20200130_02/
+245,Tokyo,Japan,male,55,1/29/2020,0,1,0,0,https://www.bangkokpost.com/world/1846939/three-japanese-returnees-from-wuhan-infected-with-coronavirus
+246,Mie,Japan,male,55,1/25/2020,1,0,0,0,https://www3.nhk.or.jp/nhkworld/en/news/20200131_01/
+247,Japan,Japan,female,35,1/24/2020,1,0,0,0,https://www3.nhk.or.jp/nhkworld/en/news/20200131_01/
+248,Kyoto,Japan,female,25,1/23/2020,1,0,0,0,https://www3.nhk.or.jp/nhkworld/en/news/20200131_01/
+249,Haneda,Japan,female,25,1/20/2020,1,0,0,0,https://www.nippon.com/en/news/ntv20200131003/coronavirus-3-new-cases-in-japan-total-now-17.html?cx_recs_click=true
+250,Japan,Japan,male,45,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-japan/japan-confirms-three-more-citizens-evacuated-from-wuhan-test-positive-for-coronavirus-idUSKBN1ZW03V
+251,Japan,Japan,male,45,1/26/2020,1,0,0,0,https://www.reuters.com/article/us-china-health-japan/japan-confirms-three-more-citizens-evacuated-from-wuhan-test-positive-for-coronavirus-idUSKBN1ZW03V
+252,Japan,Japan,male,35,NA,1,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202001.html
+253,Chiba Prefecture,Japan,female,35,1/30/2020,0,1,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202001.html
+254,Chiba Prefecture,Japan,female,55,1/31/2020,1,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202001.html
+255,Japan,Japan,male,55,1/25/2020,0,1,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202001.html
+256,Chiba Prefecture,Japan,male,45,1/24/2020,0,1,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202001.html
+257,Kyoto,Japan,male,25,1/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202001.html
+258,Japan,Japan,male,55,NA,0,1,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+259,Japan,Japan,male,25,NA,0,1,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+260,Japan,Japan,male,45,02-08-2020,1,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+261,Japan,Japan,male,55,02-07-2020,0,1,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+262,Japan,Japan,NA,NA,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+263,Kanagawa,Japan,female,85,1/22/2020,0,0,1,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+264,Tokyo,Japan,male,75,1/29/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+265,Wakayama Prefecture,Japan,male,55,1/31/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+266,Chiba Prefecture,Japan,male,25,02-02-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+267,Japan,Japan,male,75,02-01-2020,0,0,1,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+268,Okinawa Prefecture,Japan,female,65,02-05-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+269,Tokyo,Japan,female,55,02-04-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+270,Tokyo,Japan,male,75,1/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+271,Aichi Prefecture,Japan,male,65,02-03-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+272,Hokkaido,Japan,male,55,1/31/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+273,Kanagawa,Japan,male,35,02-11-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+274,Wakayama Prefecture,Japan,male,55,02-04-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+275,Wakayama Prefecture,Japan,female,55,02-07-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+276,Wakayama Prefecture,Japan,male,65,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+277,Aichi Prefecture,Japan,female,65,2/13/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+278,Tokyo,Japan,female,65,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+279,Tokyo,Japan,male,45,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+280,Tokyo,Japan,male,65,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+281,Tokyo,Japan,male,35,02-03-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+282,Aichi Prefecture,Japan,male,65,2/15/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+283,Nara Prefecture,Japan,male,65,02-06-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+284,Aichi Prefecture,Japan,male,65,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+285,Wakayama Prefecture,Japan,female,85,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+286,Wakayama Prefecture,Japan,female,55,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+287,Wakayama Prefecture,Japan,male,55,02-03-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+288,Wakayama Prefecture,Japan,male,55,02-07-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+289,Wakayama Prefecture,Japan,female,45,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+290,Wakayama Prefecture,Japan,male,65,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+291,Wakayama Prefecture,Japan,male,35,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+292,Tokyo,Japan,male,85,02-09-2020,0,0,1,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+293,Japan,Japan,male,25,02-07-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+294,Japan,Japan,male,55,02-05-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+295,Aichi Prefecture,Japan,male,65,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+296,Sagamihara,Japan,male,85,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+297,Sagamihara,Japan,male,75,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+298,Kanagawa,Japan,male,65,02-03-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+299,Sapporo,Japan,male,45,02-08-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+300,Hokkaido,Japan,male,65,02-03-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+301,Okinawa Prefecture,Japan,male,65,02-11-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+302,Tokyo,Japan,male,75,02-04-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+303,Tokyo,Japan,female,75,02-04-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+304,Tokyo,Japan,female,75,02-03-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+305,Nagoya City,Japan,female,55,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09643.html
+306,Japan,Japan,male,55,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+307,Fukuoka Prefecture,Japan,male,65,2/13/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+308,Hokkaido,Japan,male,45,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+309,Chiba Prefecture,Japan,female,75,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+310,Okinawa Prefecture,Japan,male,85,02-06-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+311,Japan,Japan,NA,NA,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+312,Japan,Japan,NA,NA,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+313,Nagoya City,Japan,male,85,2/19/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+314,Sagamihara,Japan,male,85,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+315,Fukuoka Prefecture,Japan,female,65,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09652.html
+316,Hokkaido,Japan,male,5,2/15/2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+317,Hokkaido,Japan,male,15,2/18/2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+318,Hokkaido,Japan,female,45,2/16/2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+319,Ishikawa,Japan,male,55,2/16/2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+320,Saitama Prefecture,Japan,NA,5,2/14/2020,1,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+321,Tokyo,Japan,female,55,02-10-2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+322,Tokyo,Japan,female,75,02-01-2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+323,Tokyo,Japan,female,55,02-04-2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+324,Chiba Prefecture,Japan,male,65,02-06-2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+325,Sagamihara,Japan,male,85,2/18/2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+326,Nagoya City,Japan,male,75,2/19/2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+327,Nagoya City,Japan,female,25,2/20/2020,0,0,0,1,https://www.mhlw.go.jp/stf/newpage_09652.html
+328,Kumamoto City,Japan,female,25,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+329,Kumamoto City,Japan,male,55,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+330,Kumamoto Prefecture,Japan,male,65,2/15/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+331,Wakayama Prefecture,Japan,male,45,02-02-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+332,Chiba Prefecture,Japan,female,65,02-12-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+333,Japan,Japan,female,55,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+334,Hokkaido,Japan,female,75,02-06-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+335,Hokkaido,Japan,male,85,02-03-2020,0,0,1,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+336,Hokkaido,Japan,male,75,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+337,Hokkaido,Japan,female,55,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+338,Hokkaido,Japan,male,65,02-10-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+339,Hokkaido,Japan,female,55,2/15/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+340,Hokkaido,Japan,female,15,02-06-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+341,Hokkaido,Japan,female,55,2/13/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+342,Tokyo,Japan,male,65,02-12-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+343,Nagoya City,Japan,female,65,2/19/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+344,Nagoya City,Japan,female,46,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+345,Nagoya City,Japan,male,65,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+346,Nagoya City,Japan,male,65,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+347,Japan,Japan,female,65,2/21/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+348,Sagamihara,Japan,male,55,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+349,Hokkaido,Japan,male,55,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+350,Sapporo,Japan,male,75,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+351,Nagoya City,Japan,female,75,2/22/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+352,Nagoya City,Japan,male,75,2/21/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+353,Chiba Prefecture,Japan,male,45,02-12-2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+354,Hokkaido,Japan,male,35,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+355,Hokkaido,Japan,female,65,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+356,Hokkaido,Japan,male,25,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+357,Hokkaido,Japan,male,75,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+358,Hokkaido,Japan,female,35,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+359,Hokkaido,Japan,male,85,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+360,Hokkaido,Japan,female,45,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+361,Hokkaido,Japan,female,25,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+362,Ishikawa,Japan,female,55,NA,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+363,Sagamihara,Japan,male,55,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+364,Ishikawa,Japan,male,65,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+365,Sapporo,Japan,female,75,2/21/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+366,Sapporo,Japan,male,55,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+367,Hokkaido,Japan,female,25,2/18/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+368,Hokkaido,Japan,male,55,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+369,Kanagawa,Japan,male,55,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+370,Tokyo,Japan,male,45,2/13/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+371,Tokyo,Japan,male,55,2/19/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+372,Tokyo,Japan,male,35,2/18/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+373,Sagamihara,Japan,female,55,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+374,Sagamihara,Japan,female,25,2/21/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+375,Sagamihara,Japan,female,25,2/19/2020,0,0,0,0,https://www.mhlw.go.jp/stf/newpage_09713.html
+376,Nagano Prefecture,Japan,male,65,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+377,Kumamoto City,Japan,male,55,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+378,Kumamoto City,Japan,female,65,2/25/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+379,Sapporo,Japan,female,65,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+380,Ishikawa,Japan,female,55,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+381,Nagoya City,Japan,female,75,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+382,Nagoya City,Japan,female,75,2/23/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+383,Nagoya City,Japan,female,45,2/23/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+384,Chiba Prefecture,Japan,male,55,2/22/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+385,Chiba Prefecture,Japan,male,65,2/22/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+386,Chiba Prefecture,Japan,male,75,02-12-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+387,Hokkaido,Japan,male,25,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+388,Hokkaido,Japan,female,25,2/19/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+389,Hokkaido,Japan,male,75,2/23/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+390,Hokkaido,Japan,NA,NA,2/16/2020,0,0,1,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+391,Hokkaido,Japan,female,75,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+392,Hokkaido,Japan,female,75,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+393,Hokkaido,Japan,male,45,2/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+394,Kanagawa,Japan,male,65,NA,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+395,Osaka Prefecture,Japan,female,45,02-06-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+396,Tokyo,Japan,male,85,2/22/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+397,Tokyo,Japan,male,75,02-12-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+398,Tokyo,Japan,male,75,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+399,Nagoya City,Japan,male,55,2/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+400,Nagoya City,Japan,male,65,2/25/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+401,Nagoya City,Japan,male,75,2/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+402,Nagoya City,Japan,male,75,2/23/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+403,Nagoya City,Japan,female,75,2/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+404,Gifu Prefecture,Japan,male,55,2/14/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+405,Gifu Prefecture,Japan,female,55,2/23/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+406,Ishikawa,Japan,male,55,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+407,Kanagawa,Japan,male,55,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+408,Tokyo,Japan,female,60,02-10-2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+409,Osaka Prefecture,Japan,male,45,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+410,Hokkaido,Japan,male,55,2/25/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+411,Hokkaido,Japan,male,55,2/25/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+412,Hokkaido,Japan,male,35,2/17/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+413,Hokkaido,Japan,male,75,2/16/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+414,Hokkaido,Japan,male,65,2/18/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+415,Hokkaido,Japan,male,45,2/15/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+416,Hokkaido,Japan,male,45,2/21/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+417,Hokkaido,Japan,male,5,2/21/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+418,Hokkaido,Japan,male,35,2/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+419,Hokkaido,Japan,male,5,2/21/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+420,Hokkaido,Japan,male,85,2/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+421,Hokkaido,Japan,male,35,2/20/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+422,Hokkaido,Japan,male,85,2/22/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+423,Hokkaido,Japan,male,65,2/22/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+424,Hokkaido,Japan,female,45,2/24/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+425,Nagoya City,Japan,female,65,2/26/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+426,Nagoya City,Japan,male,65,2/26/2020,0,0,0,0,https://www.mhlw.go.jp/stf/houdou/houdou_list_202002.html
+427,Johor,Malaysia,male,40,1/23/2020,0,1,0,1,https://www.reuters.com/article/us-china-health-malaysia/malaysia-confirms-fourth-case-of-coronavirus-infection-idUSKBN1ZO065
+428,Johor,Malaysia,female,65,1/24/2020,0,0,0,1,https://www.straitstimes.com/asia/se-asia/malaysia-confirms-first-cases-of-wuhan-coronavirus-infection
+429,Johor,Malaysia,male,11,1/24/2020,0,0,0,1,https://www.straitstimes.com/asia/se-asia/malaysia-confirms-first-cases-of-wuhan-coronavirus-infection
+430,Johor,Malaysia,male,2,1/24/2020,0,0,0,1,https://www.straitstimes.com/asia/se-asia/malaysia-confirms-first-cases-of-wuhan-coronavirus-infection
+431,Langkawi,Malaysia,female,4,NA,0,0,0,1,https://www.thestar.com.my/news/nation/2020/01/29/coronavirus-three-new-cases-confirmed-bringing-total-to-seven-cases-in-m039sia
+432,Johor,Malaysia,female,36,NA,0,0,0,1,https://www.thestar.com.my/news/nation/2020/01/29/coronavirus-three-new-cases-confirmed-bringing-total-to-seven-cases-in-m039sia
+433,Johor,Malaysia,male,52,NA,0,0,0,1,https://www.thestar.com.my/news/nation/2020/01/29/coronavirus-three-new-cases-confirmed-bringing-total-to-seven-cases-in-m039sia
+434,Johor,Malaysia,female,49,NA,0,0,0,1,https://www.thestar.com.my/news/nation/2020/01/29/coronavirus-three-new-cases-confirmed-bringing-total-to-seven-cases-in-m039sia
+435,Malaysia,Malaysia,male,41,NA,0,0,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-15
+436,Malaysia,Malaysia,male,63,1/23/2020,0,1,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-16
+437,Malaysia,Malaysia,male,45,NA,1,0,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-17
+438,Malaysia,Malaysia,male,9,NA,1,0,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-18
+439,Malaysia,Malaysia,female,40,02-01-2020,0,0,0,0,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-19
+440,Malaysia,Malaysia,female,37,NA,0,1,0,0,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-20
+441,Johor,Malaysia,female,59,1/26/2020,0,1,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-21
+442,Malaysia,Malaysia,female,67,NA,0,1,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-22
+443,Malaysia,Malaysia,female,65,NA,0,0,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-23
+444,Malaysia,Malaysia,male,31,02-03-2020,0,0,0,1,https://www.straitstimes.com/asia/se-asia/woman-from-wuhan-is-latest-coronavirus-case-in-malaysia-bringing-total-to-24
+445,Malaysia,Malaysia,female,39,NA,0,1,0,0,https://www.thestar.com.my/news/nation/2020/02/16/three-more-covid-19-positive-cases
+446,Malaysia,Malaysia,male,27,2/13/2020,0,0,0,1,https://www.thestar.com.my/news/nation/2020/02/16/three-more-covid-19-positive-cases
+447,Malaysia,Malaysia,female,32,2/13/2020,0,0,0,1,https://www.thestar.com.my/news/nation/2020/02/16/three-more-covid-19-positive-cases
+448,Malaysia,Malaysia,female,83,NA,0,0,0,1,https://www.thestar.com.my/news/nation/2020/02/16/three-more-covid-19-positive-cases
+449,Malaysia,Malaysia,female,53,NA,0,0,0,0,https://www.straitstimes.com/asia/se-asia/malaysia-confirms-1st-case-of-coronavirus-with-travel-history-to-japan
+450,Kathmandu,Nepal,male,32,01-03-2020,0,1,0,1,https://www.scmp.com/news/china/society/article/3047625/china-coronavirus-nepal-reports-first-case-infection-virus
+451,Singapore,Singapore,male,66,1/21/2020,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-pneumonia-cases-outbreak-singapore-confirmed-cases-12319272
+452,Singapore,Singapore,female,53,1/21/2020,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-pneumonia-cases-outbreak-singapore-confirmed-cases-12319273
+453,Singapore,Singapore,male,37,NA,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-pneumonia-cases-outbreak-singapore-confirmed-cases-12319274
+454,Singapore,Singapore,male,36,1/23/2020,0,1,0,1,https://www.scmp.com/news/asia/southeast-asia/article/3047663/china-coronavirus-singapore-and-malaysia-both-report
+455,Singapore,Singapore,female,56,1/24/2020,0,1,0,1,https://www.straitstimes.com/singapore/wuhan-virus-singapore-confirms-5th-case-patient-from-wuhan-stayed-at-her-familys-home-in
+456,Singapore,Singapore,male,56,1/25/2020,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-pneumonia-cases-outbreak-singapore-confirmed-cases-12319274
+457,Singapore,Singapore,male,35,1/24/2020,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-pneumonia-cases-outbreak-singapore-confirmed-cases-12319274
+458,Singapore,Singapore,female,56,1/24/2020,1,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364556
+459,Singapore,Singapore,male,56,1/24/2020,1,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364557
+460,Singapore,Singapore,male,56,1/21/2020,1,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-10-total-12364558
+461,Singapore,Singapore,female,31,1/27/2020,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369838
+462,Singapore,Singapore,female,37,1/26/2020,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369839
+463,Singapore,Singapore,female,73,1/28/2020,0,1,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-new-confirmed-cases-13-12369840
+464,Singapore,Singapore,male,31,1/28/2020,1,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-novel-coronavirus-infection-in-singapore
+465,Singapore,Singapore,female,47,1/30/2020,1,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-novel-coronavirus-infection-in-singapore
+466,Singapore,Singapore,male,38,1/23/2020,1,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-novel-coronavirus-infection-in-singapore
+467,Singapore,Singapore,female,47,1/30/2020,1,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-novel-coronavirus-infection-in-singapore
+468,Singapore,Singapore,female,31,NA,1,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-imported-cases-of-novel-coronavirus-infection-in-singapore
+469,Singapore,Singapore,female,28,1/29/2020,0,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314
+470,Singapore,Singapore,female,48,1/25/2020,0,0,0,0,https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314
+471,Singapore,Singapore,female,44,02-02-2020,0,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314
+472,Singapore,Singapore,NA,NA,NA,1,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314
+473,Singapore,Singapore,NA,NA,NA,1,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314
+474,Singapore,Singapore,female,32,NA,0,0,0,1,https://www.channelnewsasia.com/news/singapore/wuhan-virus-coronavirus-singapore-community-spread-tourists-12389314
+475,Singapore,Singapore,male,NA,1/24/2020,0,0,0,1,https://www.straitstimes.com/singapore/health/coronavirus-4-more-confirmed-cases-in-singapore-28-cases-so-far
+476,Singapore,Singapore,female,42,NA,1,0,0,1,https://www.straitstimes.com/singapore/health/coronavirus-4-more-confirmed-cases-in-singapore-28-cases-so-far
+477,Singapore,Singapore,male,0.5,NA,0,0,0,1,https://www.straitstimes.com/singapore/health/coronavirus-4-more-confirmed-cases-in-singapore-28-cases-so-far
+478,Singapore,Singapore,male,45,02-01-2020,0,0,0,1,https://www.straitstimes.com/singapore/health/coronavirus-4-more-confirmed-cases-in-singapore-28-cases-so-far
+479,Singapore,Singapore,male,41,1/28/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore#_ftn1
+480,Singapore,Singapore,male,27,1/21/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore#_ftn1
+481,Singapore,Singapore,male,53,1/23/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+482,Singapore,Singapore,female,42,02-02-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+483,Singapore,Singapore,female,39,1/30/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+484,Singapore,Singapore,female,40,1/27/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+485,Singapore,Singapore,male,64,1/30/2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+486,Singapore,Singapore,female,38,1/24/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+487,Singapore,Singapore,male,53,1/30/2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+488,Singapore,Singapore,female,52,02-03-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+489,Singapore,Singapore,male,51,1/29/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+490,Singapore,Singapore,male,36,1/30/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+491,Singapore,Singapore,male,71,02-01-2020,0,0,0,0,https://www.thestar.com.my/news/regional/2020/02/09/singapore-confirms-three-more-coronavirus-cases-total-now-at-43-says-singapore-health-ministry
+492,Singapore,Singapore,male,39,02-01-2020,0,0,0,0,https://www.thestar.com.my/news/regional/2020/02/09/singapore-confirms-three-more-coronavirus-cases-total-now-at-43-says-singapore-health-ministry
+493,Singapore,Singapore,male,54,1/30/2020,0,0,0,0,https://www.thestar.com.my/news/regional/2020/02/09/singapore-confirms-three-more-coronavirus-cases-total-now-at-43-says-singapore-health-ministry
+494,Singapore,Singapore,male,37,1/31/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed-10feb
+495,Singapore,Singapore,female,2,NA,1,0,0,1,https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed-10feb
+496,Singapore,Singapore,male,35,02-05-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+497,Singapore,Singapore,male,39,02-06-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+498,Singapore,Singapore,male,34,02-01-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+499,Singapore,Singapore,male,46,02-03-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+500,Singapore,Singapore,male,62,02-07-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+501,Singapore,Singapore,male,48,02-04-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+502,Singapore,Singapore,male,37,02-07-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+503,Singapore,Singapore,male,54,02-10-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+504,Singapore,Singapore,female,55,02-10-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+505,Singapore,Singapore,male,30,1/30/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+506,Singapore,Singapore,male,30,02-12-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+507,Singapore,Singapore,male,26,02-11-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+508,Singapore,Singapore,male,55,02-10-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+509,Singapore,Singapore,male,61,02-07-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+510,Singapore,Singapore,female,51,02-08-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+511,Singapore,Singapore,male,57,02-06-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+512,Singapore,Singapore,female,44,02-09-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+513,Singapore,Singapore,female,54,02-10-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+514,Singapore,Singapore,male,50,02-03-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+515,Singapore,Singapore,female,61,NA,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+516,Singapore,Singapore,male,28,1/29/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+517,Singapore,Singapore,female,56,02-09-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+518,Singapore,Singapore,female,79,1/30/2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed
+519,Singapore,Singapore,male,26,02-11-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed
+520,Singapore,Singapore,female,27,02-03-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed
+521,Singapore,Singapore,male,25,02-01-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed
+522,Singapore,Singapore,male,40,02-10-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-nine-new-cases-of-covid-19-infection-confirmed
+523,Singapore,Singapore,male,43,02-09-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-three-new-cases-of-covid-19-infection-confirmed
+524,Singapore,Singapore,male,29,02-12-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-three-new-cases-of-covid-19-infection-confirmed
+525,Singapore,Singapore,female,71,NA,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-three-new-cases-of-covid-19-infection-confirmed
+526,Singapore,Singapore,male,1,NA,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-two-new-cases-of-covid-19-infection-confirmed
+527,Singapore,Singapore,male,35,NA,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-two-new-cases-of-covid-19-infection-confirmed
+528,Singapore,Singapore,female,57,02-09-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed
+529,Singapore,Singapore,female,35,02-12-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed
+530,Singapore,Singapore,female,38,02-04-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed
+531,Singapore,Singapore,male,50,2/16/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-four-new-cases-of-covid-19-infection-confirmed
+532,Singapore,Singapore,female,57,02-09-2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-three-new-cases-of-covid-19-infection-confirmed
+533,Singapore,Singapore,male,54,1/28/2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-three-new-cases-of-covid-19-infection-confirmed
+534,Singapore,Singapore,female,35,02-04-2020,0,0,0,1,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-three-new-cases-of-covid-19-infection-confirmed
+535,Singapore,Singapore,male,36,2/14/2020,0,0,0,0,https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-three-new-cases-of-covid-19-infection-confirmed
+536,Singapore,Singapore,male,24,2/14/2020,0,0,0,0,https://www.moh.gov.sg/covid-19
+537,Singapore,Singapore,male,32,NA,1,0,0,1,https://www.moh.gov.sg/covid-20
+538,Singapore,Singapore,female,30,2/16/2020,0,0,0,0,https://www.moh.gov.sg/covid-21
+539,Singapore,Singapore,male,41,02-03-2020,0,0,0,0,https://www.moh.gov.sg/covid-22
+540,Singapore,Singapore,female,75,02-09-2020,0,0,0,0,https://www.moh.gov.sg/covid-23
+541,Singapore,Singapore,female,58,1/23/2020,0,0,0,1,https://www.moh.gov.sg/covid-19
+542,Singapore,Singapore,male,47,NA,0,0,0,0,https://www.moh.gov.sg/covid-20
+543,Singapore,Singapore,male,38,NA,0,0,0,0,https://www.moh.gov.sg/covid-21
+544,South Korea,South Korea,female,35,1/18/2020,0,1,0,1,https://asia.nikkei.com/Spotlight/Coronavirus-outbreak/South-Korea-confirms-first-case-of-new-coronavirus-in-Chinese-visitor
+545,South Korea,South Korea,male,55,01-10-2020,1,0,0,1,http://www.koreabiomed.com/news/articleView.html?idxno=7256
+546,South Korea,South Korea,male,54,1/22/2020,0,1,0,0,https://en.yna.co.kr/view/AEN20200126000754320
+547,South Korea,South Korea,male,55,1/21/2020,1,0,0,0,https://www.straitstimes.com/asia/east-asia/wuhan-virus-south-korea-reports-fourth-coronavirus-case
+548,South Korea,South Korea,male,32,NA,1,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015
+549,South Korea,South Korea,male,56,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0016
+550,South Korea,South Korea,male,28,1/26/2020,1,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0017
+551,South Korea,South Korea,female,62,1/21/2020,1,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0018
+552,South Korea,South Korea,female,28,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0019
+553,South Korea,South Korea,female,52,1/29/2020,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0020
+554,South Korea,South Korea,male,25,1/30/2020,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0021
+555,South Korea,South Korea,male,48,02-01-2020,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0022
+556,South Korea,South Korea,male,28,02-01-2020,1,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0023
+557,Seoul,South Korea,female,40,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0024
+558,South Korea,South Korea,male,43,NA,1,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0025
+559,South Korea,South Korea,female,42,1/25/2020,0,0,0,1,https://www.scmp.com/news/asia/east-asia/article/3049091/coronavirus-south-korea-confirms-two-new-cases-including-man
+560,South Korea,South Korea,male,37,1/26/2020,0,0,0,0,https://www.scmp.com/news/asia/east-asia/article/3049091/coronavirus-south-korea-confirms-two-new-cases-including-man
+561,South Korea,South Korea,female,21,NA,0,0,0,1,https://www.scmp.com/news/asia/east-asia/article/3049091/coronavirus-south-korea-confirms-two-new-cases-including-man
+562,South Korea,South Korea,male,36,NA,0,0,0,0,https://www.scmp.com/news/asia/east-asia/article/3049091/coronavirus-south-korea-confirms-two-new-cases-including-man
+563,South Korea,South Korea,female,41,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+564,South Korea,South Korea,female,59,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0031
+565,South Korea,South Korea,male,46,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0032
+566,South Korea,South Korea,female,58,NA,1,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0033
+567,South Korea,South Korea,male,28,NA,1,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+568,South Korea,South Korea,female,73,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+569,South Korea,South Korea,male,51,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0031
+570,South Korea,South Korea,female,37,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0032
+571,South Korea,South Korea,female,30,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0033
+572,South Korea,South Korea,male,82,NA,0,0,0,0,https://www.scmp.com/news/asia/east-asia/article/3050917/coronavirus-chinese-students-south-korea-advised-take-leave
+573,South Korea,South Korea,female,68,02-06-2020,0,0,0,0,https://www.scmp.com/news/asia/east-asia/article/3050917/coronavirus-chinese-students-south-korea-advised-take-leave
+574,South Korea,South Korea,female,61,02-07-2020,0,0,0,0,https://www.scmp.com/news/asia/east-asia/article/3050917/coronavirus-chinese-students-south-korea-advised-take-leave
+575,South Korea,South Korea,female,11,02-08-2020,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=1
+576,South Korea,South Korea,female,40,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=2
+577,South Korea,South Korea,male,24,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=3
+578,South Korea,South Korea,female,26,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=4
+579,South Korea,South Korea,female,48,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=5
+580,South Korea,South Korea,male,49,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=6
+581,South Korea,South Korea,female,57,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=7
+582,South Korea,South Korea,female,61,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=8
+583,South Korea,South Korea,male,77,02-11-2020,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=9
+584,South Korea,South Korea,female,69,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=10
+585,South Korea,South Korea,female,29,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=11
+586,South Korea,South Korea,female,58,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=12
+587,South Korea,South Korea,female,46,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=13
+588,South Korea,South Korea,female,54,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=14
+589,South Korea,South Korea,male,28,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=15
+590,South Korea,South Korea,female,63,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=16
+591,South Korea,South Korea,female,72,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=17
+592,South Korea,South Korea,male,58,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=18
+593,South Korea,South Korea,male,76,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=19
+594,South Korea,South Korea,female,61,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=20
+595,South Korea,South Korea,male,24,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=21
+596,South Korea,South Korea,female,38,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=22
+597,South Korea,South Korea,male,57,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=23
+598,South Korea,South Korea,male,59,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=24
+599,South Korea,South Korea,male,75,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=25
+600,South Korea,South Korea,male,30,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=26
+601,South Korea,South Korea,female,26,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=27
+602,South Korea,South Korea,female,34,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=28
+603,South Korea,South Korea,female,59,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=29
+604,South Korea,South Korea,female,58,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=30
+605,South Korea,South Korea,male,60,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=31
+606,South Korea,South Korea,female,52,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=32
+607,South Korea,South Korea,female,59,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=33
+608,South Korea,South Korea,female,50,NA,0,0,0,1,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=34
+609,South Korea,South Korea,male,22,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=35
+610,South Korea,South Korea,female,30,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=36
+611,South Korea,South Korea,female,56,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=37
+612,South Korea,South Korea,male,29,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=38
+613,South Korea,South Korea,female,48,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=39
+614,South Korea,South Korea,female,56,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=40
+615,South Korea,South Korea,female,39,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=41
+616,South Korea,South Korea,female,20,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=42
+617,South Korea,South Korea,male,49,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=43
+618,South Korea,South Korea,female,23,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=44
+619,South Korea,South Korea,male,36,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=45
+620,South Korea,South Korea,female,57,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=46
+621,South Korea,South Korea,male,55,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=47
+622,South Korea,South Korea,female,22,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=48
+623,South Korea,South Korea,female,34,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=49
+624,South Korea,South Korea,female,65,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=50
+625,South Korea,South Korea,male,64,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=51
+626,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=52
+627,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=53
+628,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=54
+629,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=55
+630,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=56
+631,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=57
+632,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=58
+633,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=59
+634,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=60
+635,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=61
+636,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=62
+637,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=63
+638,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=64
+639,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=65
+640,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=66
+641,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=67
+642,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=68
+643,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=69
+644,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=70
+645,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=71
+646,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=72
+647,South Korea,South Korea,NA,NA,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366261&tag=&nPage=73
+648,South Korea,South Korea,male,67,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+649,South Korea,South Korea,male,74,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+650,Seoul,South Korea,male,35,02-02-2020,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+651,South Korea,South Korea,male,62,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+652,South Korea,South Korea,male,58,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+653,South Korea,South Korea,male,62,02-02-2020,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+654,South Korea,South Korea,male,41,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+655,South Korea,South Korea,male,36,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+656,South Korea,South Korea,female,69,NA,0,0,0,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+657,South Korea,South Korea,male,75,NA,0,0,1,0,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+658,Taiwan,Taiwan,female,55,01-11-2020,1,0,0,0,https://www.taiwannews.com.tw/en/news/3866002
+659,Taiwan,Taiwan,female,55,1/23/2020,1,0,0,0,https://www.taiwannews.com.tw/en/news/3866003
+660,Taiwan,Taiwan,male,55,1/23/2020,1,0,0,0,https://www.taiwannews.com.tw/en/news/3866004
+661,Taiwan,Taiwan,female,50,1/22/2020,1,0,0,0,https://www.taiwannews.com.tw/en/news/3866005
+662,Taiwan,Taiwan,female,50,1/25/2020,1,0,0,0,https://www.taiwannews.com.tw/en/news/3866006
+663,Taiwan,Taiwan,female,70,1/25/2020,0,1,0,0,https://www.taiwannews.com.tw/en/news/3866007
+664,Taiwan,Taiwan,female,70,1/25/2020,0,1,0,0,https://www.taiwannews.com.tw/en/news/3866008
+665,Taiwan,Taiwan,male,55,1/26/2020,0,0,0,0,https://www.taiwannews.com.tw/en/news/3866009
+666,Taiwan,Taiwan,male,NA,01-12-2020,1,0,0,0,https://www.taiwannews.com.tw/en/news/3867321
+667,Taiwan,Taiwan,female,NA,1/27/2020,0,0,0,0,https://www.taiwannews.com.tw/en/news/3867322
+668,Taiwan,Taiwan,male,55,NA,1,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/jrD8pZG1_vGt1Gb8ficN3g?typeid=158
+669,Taiwan,Taiwan,male,45,02-03-2020,1,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/wn02wbpI_2YrRLcxS_pZnA?typeid=158
+670,Taiwan,Taiwan,female,25,02-01-2020,0,1,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/wn02wbpI_2YrRLcxS_pZnA?typeid=159
+671,Taiwan,Taiwan,male,55,1/26/2020,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/ijxi3l3JEYqfNtV2aRGzVg?typeid=158
+672,Taiwan,Taiwan,female,55,1/28/2020,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/ijxi3l3JEYqfNtV2aRGzVg?typeid=159
+673,Taiwan,Taiwan,female,45,02-01-2020,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/ijxi3l3JEYqfNtV2aRGzVg?typeid=160
+674,Taiwan,Taiwan,male,25,1/27/2020,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/ijxi3l3JEYqfNtV2aRGzVg?typeid=161
+675,Taiwan,Taiwan,male,25,NA,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/ijxi3l3JEYqfNtV2aRGzVg?typeid=162
+676,Taiwan,Taiwan,male,65,1/27/2020,0,0,1,0,https://www.mohw.gov.tw/cp-4638-51567-2.html
+677,Taiwan,Taiwan,male,55,NA,0,0,0,0,https://www.mohw.gov.tw/cp-4638-51567-2.html
+678,Taiwan,Taiwan,female,85,02-06-2020,0,0,0,0,https://www.mohw.gov.tw/cp-4638-51567-2.html
+679,Taiwan,Taiwan,male,35,1/28/2020,0,0,0,0,https://www.mohw.gov.tw/cp-4638-51567-2.html
+680,Taiwan,Taiwan,female,65,NA,0,0,0,0,https://www.mohw.gov.tw/cp-4638-51567-2.html
+681,Taiwan,Taiwan,female,60,1/22/2020,0,0,0,0,https://www.taiwannews.com.tw/en/news/3879311
+682,Taiwan,Taiwan,female,45,1/28/2020,0,0,0,0,https://www.taiwannews.com.tw/en/news/3879311
+683,Taiwan,Taiwan,female,25,NA,0,0,0,0,https://www.taiwannews.com.tw/en/news/3879311
+684,Taiwan,Taiwan,male,85,NA,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/MtvPSPzlksx8B_zvdcNdBw?typeid=158
+685,Taiwan,Taiwan,male,55,NA,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/MtvPSPzlksx8B_zvdcNdBw?typeid=159
+686,Taiwan,Taiwan,male,45,1/29/2020,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/MtvPSPzlksx8B_zvdcNdBw?typeid=160
+687,Taiwan,Taiwan,female,75,02-06-2020,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/MtvPSPzlksx8B_zvdcNdBw?typeid=161
+688,Taiwan,Taiwan,male,NA,NA,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/MtvPSPzlksx8B_zvdcNdBw?typeid=162
+689,Taiwan,Taiwan,female,35,NA,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/QMZlqDJORsFvH6k9GJHB2Q?typeid=158
+690,Taiwan,Taiwan,male,35,2/25/2020,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/DVaJkPoWj0jFxnjAvUeqjA?typeid=158
+691,Taiwan,Taiwan,female,55,NA,0,0,0,0,https://www.cdc.gov.tw/En/Bulletin/Detail/DVaJkPoWj0jFxnjAvUeqjA?typeid=158
+692,Thailand,Thailand,female,61,01-05-2020,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272486
+693,Thailand,Thailand,female,74,1/13/2020,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272487
+694,Thailand,Thailand,male,68,1/19/2020,1,0,0,1,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272488
+695,Thailand,Thailand,female,73,1/13/2020,1,0,0,1,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272489
+696,Thailand,Thailand,male,NA,1/19/2020,1,0,0,1,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272490
+697,Thailand,Thailand,female,33,1/23/2020,1,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272491
+698,Thailand,Thailand,female,57,NA,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272492
+699,Thailand,Thailand,female,73,NA,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272493
+700,Thailand,Thailand,NA,6,NA,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272494
+701,Thailand,Thailand,NA,60,NA,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272495
+702,Thailand,Thailand,NA,NA,NA,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272496
+703,Thailand,Thailand,NA,NA,NA,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272497
+704,Thailand,Thailand,NA,NA,NA,0,1,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272498
+705,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-pneumonia-outbreak-thailand-second-case-coronavirus-12272499
+706,Thailand,Thailand,NA,NA,NA,1,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-thailand-first-human-coronavirus-transmission-12374356
+707,Thailand,Thailand,NA,NA,NA,1,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-thailand-first-human-coronavirus-transmission-12374357
+708,Thailand,Thailand,NA,NA,NA,1,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-thailand-first-human-coronavirus-transmission-12374358
+709,Thailand,Thailand,NA,NA,NA,1,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-thailand-first-human-coronavirus-transmission-12374359
+710,Thailand,Thailand,NA,NA,NA,1,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-thailand-first-human-coronavirus-transmission-12374360
+711,Thailand,Thailand,male,50,1/20/2020,0,0,0,1,https://www.channelnewsasia.com/news/asia/wuhan-virus-thailand-first-human-coronavirus-transmission-12374361
+712,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.google.com/search?rlz=1C1GCEA_enUS884US884&sxsrf=ACYBGNRdMvO0fuV77TKGKyRufrIz56lrRg%3A1580930610509&ei=MhY7XqfcHpiDytMPteawqAc&q=thailand+coronavirus+cases+tourists+25&oq=thailand+coronavirus+cases+tourists+25&gs_l=psy-ab.3..33i160l2j33i299.9848.10231..10337...0.0..0.149.382.2j2......0....1..gws-wiz.......35i39.Ah0XtHSdjxs&ved=0ahUKEwinvdC7kbvnAhWYgXIEHTUzDHUQ4dUDCAs&uact=5
+713,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.google.com/search?rlz=1C1GCEA_enUS884US884&sxsrf=ACYBGNRdMvO0fuV77TKGKyRufrIz56lrRg%3A1580930610509&ei=MhY7XqfcHpiDytMPteawqAc&q=thailand+coronavirus+cases+tourists+25&oq=thailand+coronavirus+cases+tourists+25&gs_l=psy-ab.3..33i160l2j33i299.9848.10231..10337...0.0..0.149.382.2j2......0....1..gws-wiz.......35i39.Ah0XtHSdjxs&ved=0ahUKEwinvdC7kbvnAhWYgXIEHTUzDHUQ4dUDCAs&uact=6
+714,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.google.com/search?rlz=1C1GCEA_enUS884US884&sxsrf=ACYBGNRdMvO0fuV77TKGKyRufrIz56lrRg%3A1580930610509&ei=MhY7XqfcHpiDytMPteawqAc&q=thailand+coronavirus+cases+tourists+25&oq=thailand+coronavirus+cases+tourists+25&gs_l=psy-ab.3..33i160l2j33i299.9848.10231..10337...0.0..0.149.382.2j2......0....1..gws-wiz.......35i39.Ah0XtHSdjxs&ved=0ahUKEwinvdC7kbvnAhWYgXIEHTUzDHUQ4dUDCAs&uact=7
+715,Thailand,Thailand,male,70,NA,0,0,0,0,https://www.google.com/search?rlz=1C1GCEA_enUS884US884&sxsrf=ACYBGNRdMvO0fuV77TKGKyRufrIz56lrRg%3A1580930610509&ei=MhY7XqfcHpiDytMPteawqAc&q=thailand+coronavirus+cases+tourists+25&oq=thailand+coronavirus+cases+tourists+25&gs_l=psy-ab.3..33i160l2j33i299.9848.10231..10337...0.0..0.149.382.2j2......0....1..gws-wiz.......35i39.Ah0XtHSdjxs&ved=0ahUKEwinvdC7kbvnAhWYgXIEHTUzDHUQ4dUDCAs&uact=8
+716,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.google.com/search?rlz=1C1GCEA_enUS884US884&sxsrf=ACYBGNRdMvO0fuV77TKGKyRufrIz56lrRg%3A1580930610509&ei=MhY7XqfcHpiDytMPteawqAc&q=thailand+coronavirus+cases+tourists+25&oq=thailand+coronavirus+cases+tourists+25&gs_l=psy-ab.3..33i160l2j33i299.9848.10231..10337...0.0..0.149.382.2j2......0....1..gws-wiz.......35i39.Ah0XtHSdjxs&ved=0ahUKEwinvdC7kbvnAhWYgXIEHTUzDHUQ4dUDCAs&uact=9
+717,Thailand,Thailand,NA,NA,NA,1,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-coronavirus-thailand-cases-12410690
+718,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-coronavirus-thailand-cases-12410691
+719,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-coronavirus-thailand-cases-12410692
+720,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-coronavirus-thailand-cases-12410693
+721,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-coronavirus-thailand-cases-12410694
+722,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-coronavirus-thailand-cases-12410695
+723,Thailand,Thailand,NA,NA,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/wuhan-virus-coronavirus-thailand-cases-12410696
+724,Thailand,Thailand,female,54,NA,0,1,0,0,https://www.bangkokpost.com/thailand/general/1856074/local-virus-cases-stable-at-33
+725,Thailand,Thailand,female,35,NA,0,0,0,0,https://www.bangkokpost.com/thailand/general/1859434/thailand-records-1-new-case-of-coronavirus
+726,Thailand,Thailand,female,60,NA,0,0,0,0,https://www.bangkokpost.com/thailand/general/1859434/thailand-records-1-new-case-of-coronavirus
+727,Thailand,Thailand,female,31,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/thailand-covid19-coronavirus-cases-12468314
+728,Thailand,Thailand,male,29,NA,0,0,0,0,https://www.channelnewsasia.com/news/asia/thailand-covid19-coronavirus-cases-12468314
+729,Thailand,Thailand,male,NA,NA,0,0,0,0,https://www.scmp.com/news/asia/southeast-asia/article/3052466/coronavirus-thailand-criticises-patient-who-concealed
+730,Thailand,Thailand,female,NA,NA,0,0,0,0,https://www.scmp.com/news/asia/southeast-asia/article/3052466/coronavirus-thailand-criticises-patient-who-concealed
+731,Thailand,Thailand,male,8,NA,0,0,0,0,https://www.scmp.com/news/asia/southeast-asia/article/3052466/coronavirus-thailand-criticises-patient-who-concealed
+732,Thailand,Thailand,male,25,NA,0,0,0,0,https://www.bangkokpost.com/thailand/general/1867844/thai-tour-guide-41st-virus-patient
+733,Washington,USA,male,35,1/16/2020,1,0,0,1,https://www.latimes.com/california/story/2020-01-25/los-angeles-area-prepared-for-coronavirus
+734,Illinois,USA,female,61,1/16/2020,1,0,0,1,https://www.latimes.com/california/story/2020-01-25/los-angeles-area-prepared-for-coronavirus
+735,California,USA,male,NA,1/22/2020,0,1,0,0,https://www.latimes.com/california/story/2020-01-25/los-angeles-area-prepared-for-coronavirus
+736,California,USA,NA,NA,NA,1,0,0,0,https://www.latimes.com/california/story/2020-01-25/los-angeles-area-prepared-for-coronavirus
+737,Arizona,USA,NA,NA,NA,1,0,0,0,https://www.latimes.com/california/story/2020-01-25/los-angeles-area-prepared-for-coronavirus
+738,Illinois,USA,male,65,1/28/2020,0,0,0,1,https://thehill.com/policy/healthcare/public-global-health/481136-us-coronavirus-cases-count-jumps-to-11-with-three-more
+739,California,USA,male,NA,NA,1,0,0,0,https://thehill.com/policy/healthcare/public-global-health/481136-us-coronavirus-cases-count-jumps-to-11-with-three-more
+740,Massachusetts,USA,male,25,1/29/2020,1,0,0,0,https://thehill.com/policy/healthcare/public-global-health/481136-us-coronavirus-cases-count-jumps-to-11-with-three-more
+741,California,USA,male,57,1/25/2020,1,0,0,0,https://thehill.com/policy/healthcare/public-global-health/481136-us-coronavirus-cases-count-jumps-to-11-with-three-more
+742,California,USA,female,57,1/29/2020,0,0,0,0,https://thehill.com/policy/healthcare/public-global-health/481136-us-coronavirus-cases-count-jumps-to-11-with-three-more
+743,California,USA,female,NA,NA,1,0,0,0,https://thehill.com/policy/healthcare/public-global-health/481136-us-coronavirus-cases-count-jumps-to-11-with-three-more
+744,Wisconsin,USA,NA,NA,NA,0,0,0,0,https://www.nbcnews.com/health/health-news/conoravirus-case-confirmed-wisconsin-12th-case-u-s-n1130946
+745,California,USA,NA,NA,NA,1,0,0,0,https://www.nbcnews.com/health/health-news/conoravirus-case-confirmed-wisconsin-12th-case-u-s-n1130946
+746,California,USA,NA,NA,NA,1,0,0,0,https://www.cdc.gov/media/releases/2020/s0213-15th-coronavirus-case.html
+747,Texas,USA,NA,NA,NA,1,0,0,0,https://www.cdc.gov/media/releases/2020/s0213-15th-coronavirus-case.html
+748,California,USA,NA,NA,NA,0,0,0,0,https://www.reuters.com/article/us-china-health-usa/us-cdc-confirms-53-coronavirus-cases-including-repatriated-citizens-idUSKCN20I22G
+749,California,USA,NA,NA,NA,0,0,0,0,https://www.reuters.com/article/us-china-health-usa/us-cdc-confirms-53-coronavirus-cases-including-repatriated-citizens-idUSKCN20I22G
+750,California,USA,NA,NA,NA,0,0,0,0,https://www.nytimes.com/2020/02/26/health/coronavirus-cdc-usa.html
+751,Ho Chi Minh City,Vietnam,male,66,1/17/2020,0,1,0,1,https://www.straitstimes.com/asia/se-asia/wuhan-virus-chinese-father-and-son-identified-as-vietnams-first-two-cases
+752,Ho Chi Minh City,Vietnam,male,28,1/20/2020,0,0,0,1,https://www.straitstimes.com/asia/se-asia/wuhan-virus-chinese-father-and-son-identified-as-vietnams-first-two-cases
+753,Hanoi,Vietnam,NA,NA,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-vietnam/vietnam-says-three-new-cases-of-coronavirus-detected-state-media-idUSKBN1ZT12Y
+754,Hanoi,Vietnam,NA,NA,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-vietnam/vietnam-says-three-new-cases-of-coronavirus-detected-state-media-idUSKBN1ZT12Y
+755,Thanh Hoa,Vietnam,NA,NA,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-vietnam/vietnam-says-three-new-cases-of-coronavirus-detected-state-media-idUSKBN1ZT12Y
+756,Vietnam,Vietnam,NA,NA,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-vietnam/vietnam-says-three-new-cases-of-coronavirus-detected-state-media-idUSKBN1ZT12Y
+757,Vietnam,Vietnam,NA,NA,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-vietnam/vietnam-says-three-new-cases-of-coronavirus-detected-state-media-idUSKBN1ZT12Y
+758,Vietnam,Vietnam,NA,NA,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-vietnam/vietnam-says-three-new-cases-of-coronavirus-detected-state-media-idUSKBN1ZT12Y
+759,Vinh Phuc,Vietnam,male,30,NA,1,0,0,1,https://vietnamnews.vn/society/591803/viet-nam-confirms-9th-coronavirus-case-hong-kong-reports-first-death-from-infection.html
+760,Vinh Phuc,Vietnam,female,42,1/31/2020,0,0,0,1,https://vietnamnews.vn/society/591803/viet-nam-confirms-9th-coronavirus-case-hong-kong-reports-first-death-from-infection.html
+761,Vinh Phuc,Vietnam,female,16,NA,0,0,0,1,https://vietnamnews.vn/society/591803/viet-nam-confirms-9th-coronavirus-case-hong-kong-reports-first-death-from-infection.html
+762,Vinh Phuc,Vietnam,NA,49,NA,0,0,0,0,https://vietnamnews.vn/society/591803/viet-nam-confirms-9th-coronavirus-case-hong-kong-reports-first-death-from-infection.html
+763,Vinh Phuc,Vietnam,female,29,NA,1,0,0,1,https://vietnamnews.vn/society/591803/viet-nam-confirms-9th-coronavirus-case-hong-kong-reports-first-death-from-infection.html
+764,Vinh Phuc,Vietnam,female,55,02-02-2020,0,0,0,1,https://vietnamnews.vn/society/591803/viet-nam-confirms-9th-coronavirus-case-hong-kong-reports-first-death-from-infection.html
+765,Vinh Phuc,Vietnam,NA,0.25,NA,0,0,0,1,https://vietnamnews.vn/society/591803/viet-nam-confirms-9th-coronavirus-case-hong-kong-reports-first-death-from-infection.html
+766,Vinh Phuc,Vietnam,male,50,02-11-2020,0,0,0,0,https://vietnaminsider.vn/vietnam-confirms-16th-coronavirus-patient/
+767,NSW,Australia,male,35,1/15/2020,0,0,0,1,https://www.theguardian.com/science/2020/jan/25/coronavirus-five-people-in-nsw-being-tested-for-deadly-disease
+768,NSW,Australia,male,43,1/24/2020,1,0,0,1,https://www.theguardian.com/science/2020/jan/25/coronavirus-five-people-in-nsw-being-tested-for-deadly-disease
+769,NSW,Australia,male,53,1/20/2020,1,0,0,1,https://www.theguardian.com/science/2020/jan/25/coronavirus-five-people-in-nsw-being-tested-for-deadly-disease
+770,Victoria,Australia,male,55,1/23/2020,1,0,0,0,https://www.reuters.com/article/us-china-health-australia/australia-confirms-fifth-coronavirus-case-from-last-flight-out-of-wuhan-idUSKBN1ZQ0D1
+771,NSW,Australia,female,21,1/24/2020,1,0,0,1,https://www.reuters.com/article/us-china-health-australia/australia-confirms-fifth-coronavirus-case-from-last-flight-out-of-wuhan-idUSKBN1ZQ0D1
+772,Queensland,Australia,male,44,1/28/2020,0,1,0,0,https://au.news.yahoo.com/toddler-among-16-possible-new-cases-of-coronavirus-nsw-052558683.html
+773,Victoria,Australia,male,65,1/23/2020,1,0,0,0,https://au.news.yahoo.com/toddler-among-16-possible-new-cases-of-coronavirus-nsw-052558683.html
+774,Victoria,Australia,female,45,1/25/2020,0,1,0,0,https://www.reuters.com/article/us-china-health-australia/australia-confirms-fifth-coronavirus-case-from-last-flight-out-of-wuhan-idUSKBN1ZQ0D1
+775,Queensland,Australia,female,42,NA,0,1,0,0,https://www.reuters.com/article/us-china-health-australia/australia-confirms-fifth-coronavirus-case-from-last-flight-out-of-wuhan-idUSKBN1ZQ0D2
+776,South Australia,Australia,male,60,NA,0,1,0,0,https://www.abc.net.au/news/2020-02-01/coronavirus-confirmed-in-south-australia-and-victoria/11920754
+777,South Australia,Australia,female,60,NA,0,1,0,0,https://www.abc.net.au/news/2020-02-01/coronavirus-confirmed-in-south-australia-and-victoria/11920755
+778,Victoria,Australia,female,25,1/27/2020,1,0,0,0,https://www.abc.net.au/news/2020-02-01/coronavirus-confirmed-in-south-australia-and-victoria/11920756
+779,Queensland,Australia,male,8,NA,0,1,0,0,https://www.abc.net.au/news/2020-02-05/queensland-confirms-fourth-coronavirus-case-man-from-wuhan-china/11934390
+780,Queensland,Australia,male,37,NA,0,1,0,0,https://www.abc.net.au/news/2020-02-05/queensland-confirms-fourth-coronavirus-case-man-from-wuhan-china/11934391
+781,Queensland,Australia,female,37,NA,0,1,0,0,https://www.sbs.com.au/news/chinese-woman-in-queensland-confirmed-as-15th-australian-coronavirus-case
+782,Toronto,Canada,male,56,NA,1,0,0,1,https://nationalpost.com/news/canada/canadian-coronavirus-patient-showed-symptoms-on-flight-back-to-wuhan-officials-say
+783,Toronto,Canada,female,55,NA,1,0,0,0,https://www.foxnews.com/health/canadas-coronavirus-cases-husband-wife
+784,Vancouver,Canada,male,45,1/26/2020,1,0,0,0,https://nationalpost.com/news/canada/wuhan-china-coronavirus-outbreak-latest-news-updates
+785,Toronto,Canada,female,25,1/24/2020,1,0,0,1,https://www.foxnews.com/health/canadas-coronavirus-cases-husband-wife
+786,Vancouver,Canada,female,55,NA,0,0,0,0,https://globalnews.ca/news/6517559/bc-top-doctor-health-minister-coronavirus-update/
+787,Vancouver,Canada,male,35,NA,0,1,0,0,https://globalnews.ca/news/6517559/bc-top-doctor-health-minister-coronavirus-update/
+788,Vancouver,Canada,female,35,NA,0,1,0,0,https://globalnews.ca/news/6517559/bc-top-doctor-health-minister-coronavirus-update/
+789,Vancouver,Canada,female,35,NA,0,0,0,0,https://globalnews.ca/news/6517559/bc-top-doctor-health-minister-coronavirus-update/
+790,Vancouver,Canada,female,35,NA,0,0,0,0,https://www.scmp.com/news/world/united-states-canada/article/3051735/sentinel-event-new-canadian-coronavirus-patient
+791,Toronto,Canada,female,25,NA,1,0,0,0,https://nationalpost.com/health/who-says-covid-19-coronavirus-not-yet-a-pandemic-while-canada-diagnoses-11th-case
+792,Vancouver,Canada,male,45,NA,0,0,0,0,https://nationalpost.com/health/who-says-covid-19-coronavirus-not-yet-a-pandemic-while-canada-diagnoses-11th-case
+793,Toronto,Canada,female,65,NA,0,0,0,0,https://www.channel3000.com/these-are-the-countries-where-novel-coronavirus-cases-have-been-confirmed-worldwide/
+794,Preah Sihanouk Province,Cambodia,male,60,1/25/2020,0,1,0,0,http://www.xinhuanet.com/english/2020-01/27/c_138737583.htm
+795,Sri Lanka,Sri Lanka,female,40,1/25/2020,0,1,0,1,https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
+796,Bavaria,Germany,male,33,1/24/2020,0,0,0,0,https://www.channelnewsasia.com/news/world/germany-wuhan-virus-workers-confirm-cases-infected-mild-symptoms-12365776
+797,Bavaria,Germany,NA,NA,1/25/2020,0,0,0,0,https://www.channelnewsasia.com/news/world/germany-wuhan-virus-workers-confirm-cases-infected-mild-symptoms-12365777
+798,Bavaria,Germany,NA,NA,1/26/2020,0,0,0,0,https://www.channelnewsasia.com/news/world/germany-wuhan-virus-workers-confirm-cases-infected-mild-symptoms-12365778
+799,Bavaria,Germany,NA,NA,1/27/2020,0,0,0,0,https://www.channelnewsasia.com/news/world/germany-wuhan-virus-workers-confirm-cases-infected-mild-symptoms-12365779
+800,Bavaria,Germany,male,NA,NA,0,0,0,0,https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-01-20-intl-hnk/index.html
+801,Bavaria,Germany,NA,NA,NA,0,0,0,0,https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-01-20-intl-hnk/index.html
+802,Bavaria,Germany,male,52,NA,0,0,0,0,https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-01-20-intl-hnk/index.html
+803,Bavaria,Germany,male,33,NA,0,0,0,0,https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-01-20-intl-hnk/index.html
+804,Frankfurt,Germany,NA,NA,NA,1,0,0,0,https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-01-20-intl-hnk/index.html
+805,Frankfurt,Germany,NA,NA,NA,1,0,0,0,https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-01-20-intl-hnk/index.html
+806,Bavaria,Germany,NA,NA,NA,0,0,0,0,https://www.stmgp.bayern.de/ministerium/presse/pressemitteilungen/
+807,Bavaria,Germany,male,58,NA,0,0,0,0,https://www.stmgp.bayern.de/ministerium/presse/pressemitteilungen/
+808,Bavaria,Germany,female,NA,NA,0,0,0,0,https://www.stmgp.bayern.de/ministerium/presse/pressemitteilungen/
+809,Bavaria,Germany,female,NA,NA,0,0,0,0,https://www.stmgp.bayern.de/ministerium/presse/pressemitteilungen/
+810,Bavaria,Germany,male,49,NA,0,0,0,0,https://www.stmgp.bayern.de/ministerium/presse/pressemitteilungen/
+811,Bavaria,Germany,NA,NA,NA,0,0,0,0,https://www.stmgp.bayern.de/ministerium/presse/pressemitteilungen/
+812,Baden-Wuerttemberg,Germany,male,25,NA,0,0,0,0,https://news.trust.org/item/20200225200141-gy7jv/
+813,Tubingen,Germany,male,60,NA,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+814,Tubingen,Germany,female,24,NA,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+815,Baden-Wuerttemberg,Germany,male,32,NA,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+816,North Rhine-Westphalia,Germany,male,47,2/16/2020,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+817,North Rhine-Westphalia,Germany,female,46,NA,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+818,North Rhine-Westphalia,Germany,male,41,2/20/2020,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+819,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+820,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.wa.de/nordrhein-westfalen/corona-virus-nrw-coronavirus-covid19-heinsberg-epidemie-ticker-news-13560300.html
+821,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823937
+822,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823938
+823,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823939
+824,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823940
+825,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823941
+826,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823942
+827,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823943
+828,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823944
+829,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823945
+830,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823946
+831,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823947
+832,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823948
+833,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823949
+834,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823950
+835,North Rhine-Westphalia,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823951
+836,Hamburg,Germany,male,NA,2/26/2020,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823952
+837,Baden-Wuerttemberg,Germany,female,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823953
+838,Baden-Wuerttemberg,Germany,female,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823954
+839,Baden-Wuerttemberg,Germany,male,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823955
+840,Baden-Wuerttemberg,Germany,male,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823956
+841,Rhineland-Palatinate,Germany,NA,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823957
+842,Bavaria,Germany,male,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823958
+843,Hesse,Germany,male,31,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823959
+844,Baden-Wuerttemberg,Germany,male,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823960
+845,Baden-Wuerttemberg,Germany,male,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823961
+846,Baden-Wuerttemberg,Germany,male,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823962
+847,Baden-Wuerttemberg,Germany,male,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823963
+848,Baden-Wuerttemberg,Germany,male,32,2/23/2020,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823964
+849,North Rhine-Westphalia,Germany,female,NA,NA,0,0,0,0,https://www.sueddeutsche.de/panorama/coronavirus-deutschland-infizierte-insgesamt-news-aktuell-anzahl-wo-1.4823965
+850,UAE,UAE,female,73,1/23/2020,0,1,0,1,https://www.aljazeera.com/news/2020/01/uae-confirms-cases-coronavirus-200129063305587.html
+851,UAE,UAE,female,36,NA,0,1,0,1,https://www.aljazeera.com/news/2020/01/uae-confirms-cases-coronavirus-200129063305587.html
+852,UAE,UAE,male,41,NA,0,1,0,1,https://www.aljazeera.com/news/2020/01/uae-confirms-cases-coronavirus-200129063305587.html
+853,UAE,UAE,male,8,NA,0,1,0,1,https://www.aljazeera.com/news/2020/01/uae-confirms-cases-coronavirus-200129063305587.html
+854,UAE,UAE,NA,NA,NA,1,0,0,0,https://www.thenational.ae/uae/health/uae-s-fifth-coronavirus-case-man-s-family-tests-negative-1.972741
+855,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.reuters.com/article/us-china-health-uae/uae-says-total-of-seven-cases-diagnosed-with-coronavirus-as-two-more-cases-detected-idUSKBN20209A
+856,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.reuters.com/article/us-china-health-uae/uae-says-total-of-seven-cases-diagnosed-with-coronavirus-as-two-more-cases-detected-idUSKBN20209A
+857,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.reuters.com/article/us-china-health-uae/uae-says-total-of-seven-cases-diagnosed-with-coronavirus-as-two-more-cases-detected-idUSKBN20209A
+858,UAE,UAE,male,37,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-confirms-ninth-case-1.979894
+859,UAE,UAE,NA,34,NA,0,0,0,0,https://gulfnews.com/uae/iranian-couple-diagnosed-with-covid-19-in-uae-taking-number-of-cases-to-13-1.69875492
+860,UAE,UAE,NA,39,NA,0,0,0,0,https://gulfnews.com/uae/iranian-couple-diagnosed-with-covid-19-in-uae-taking-number-of-cases-to-13-1.69875492
+861,UAE,UAE,male,70,NA,0,0,0,0,https://gulfnews.com/uae/iranian-couple-diagnosed-with-covid-19-in-uae-taking-number-of-cases-to-13-1.69875492
+862,UAE,UAE,female,64,NA,0,0,0,0,https://gulfnews.com/uae/iranian-couple-diagnosed-with-covid-19-in-uae-taking-number-of-cases-to-13-1.69875492
+863,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985664
+864,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985665
+865,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985666
+866,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985667
+867,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985668
+868,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985669
+869,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985670
+870,UAE,UAE,NA,NA,NA,0,0,0,0,https://www.thenational.ae/uae/health/coronavirus-uae-tour-cancelled-and-dozens-quarantined-as-two-participants-test-positive-1.985671
+871,Hong Kong,Hong Kong,male,39,1/21/2020,0,1,0,0,https://www.reuters.com/article/us-china-health-hongkong/hong-kong-confirms-first-case-of-new-wuhan-virus-local-media-idUSKBN1ZL10A?il=0
+872,Hong Kong,Hong Kong,male,56,1/18/2020,1,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3047193/china-coronavirus-first-case-confirmed-hong-kong
+873,Hong Kong,Hong Kong,female,62,1/20/2020,0,1,0,0,https://www.shine.cn/news/nation/2001290843/
+874,Hong Kong,Hong Kong,female,62,1/23/2020,0,1,0,0,https://www.shine.cn/news/nation/2001290843/
+875,Hong Kong,Hong Kong,male,63,1/23/2020,0,1,0,1,https://www.shine.cn/news/nation/2001290843/
+876,Hong Kong,Hong Kong,male,47,1/20/2020,0,1,0,0,https://www.shine.cn/news/nation/2001290843/
+877,Hong Kong,Hong Kong,female,68,1/21/2020,1,0,0,0,https://www.shine.cn/news/nation/2001290843/
+878,Hong Kong,Hong Kong,male,64,1/25/2020,0,1,0,0,https://www.shine.cn/news/nation/2001290843/
+879,Hong Kong,Hong Kong,female,73,1/28/2020,1,0,0,0,https://www.shine.cn/news/nation/2001290843/
+880,Hong Kong,Hong Kong,male,72,1/28/2020,1,0,0,0,https://www.shine.cn/news/nation/2001290843/
+881,Yau Ma Tei,Hong Kong,female,37,1/28/2020,0,0,0,0,http://www.xinhuanet.com/english/2020-01/31/c_138745266.htm
+882,Tsing Yi,Hong Kong,male,75,1/22/2020,0,0,0,0,http://www.xinhuanet.com/english/2020-01/31/c_138745266.htm
+883,Kowloon,Hong Kong,male,39,1/31/2020,1,0,1,0,https://fortune.com/2020/02/03/coronavirus-death-hong-kong/
+884,Hong Kong,Hong Kong,male,80,1/19/2020,0,0,0,0,https://www.chinadailyhk.com/article/119879
+885,Kowloon,Hong Kong,female,72,02-01-2020,0,0,0,0,https://www.chinadailyhk.com/article/119880
+886,Kowloon,Hong Kong,female,64,1/23/2020,0,0,0,0,https://www.chinadailyhk.com/article/119881
+887,Hong Kong,Hong Kong,male,60,1/22/2020,0,0,0,0,https://www.chinadailyhk.com/article/119882
+888,Kowloon,Hong Kong,male,25,1/28/2020,0,0,0,1,https://today.line.me/hk/pc/article/Coronavirus+three+new+cases+in+Hong+Kong+include+wife+and+daughter+of+man+who+already+has+disease-E0NpJa
+889,Kwun Tong,Hong Kong,female,56,02-04-2020,0,0,0,0,https://today.line.me/hk/pc/article/Coronavirus+three+new+cases+in+Hong+Kong+include+wife+and+daughter+of+man+who+already+has+disease-E0NpJa
+890,Kwun Tong,Hong Kong,female,28,1/30/2020,0,0,0,0,https://today.line.me/hk/pc/article/Coronavirus+three+new+cases+in+Hong+Kong+include+wife+and+daughter+of+man+who+already+has+disease-E0NpJa
+891,Kwai Chung,Hong Kong,male,56,1/30/2020,0,0,0,0,https://today.line.me/hk/pc/article/Coronavirus+three+new+cases+in+Hong+Kong+include+wife+and+daughter+of+man+who+already+has+disease-E0NpJa
+892,Kwai Chung,Hong Kong,female,55,02-01-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/05/P2020020500690.htm
+893,Hong Kong,Hong Kong,female,63,1/26/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/05/P2020020500690.htm
+894,Hong Kong,Hong Kong,female,65,1/28/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/05/P2020020500690.htm
+895,Zhuhai,Hong Kong,male,58,02-04-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/07/P2020020700760.htm?fontSize=1
+896,Fo Tan,Hong Kong,male,42,02-03-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/07/P2020020700760.htm?fontSize=2
+897,Wan Chai,Hong Kong,male,24,1/30/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=1
+898,Ngau Chi Wan,Hong Kong,male,70,1/30/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=2
+899,Hong Kong,Hong Kong,male,68,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=3
+900,Hong Kong,Hong Kong,female,57,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=4
+901,Hong Kong,Hong Kong,female,91,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=5
+902,Hong Kong,Hong Kong,female,51,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=6
+903,Hong Kong,Hong Kong,female,25,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=7
+904,Hong Kong,Hong Kong,male,22,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=8
+905,Hong Kong,Hong Kong,female,50,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=9
+906,Hong Kong,Hong Kong,male,23,NA,0,0,0,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm?fontSize=10
+907,Hong Kong,Hong Kong,female,55,1/30/2020,0,0,0,0,https://www.chinadailyhk.com/article/120696
+908,Hong Kong,Hong Kong,male,52,02-08-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+909,Hong Kong,Hong Kong,male,69,1/30/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+910,Hong Kong,Hong Kong,female,63,1/30/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+911,Hong Kong,Hong Kong,female,86,1/28/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+912,Hong Kong,Hong Kong,female,62,02-03-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+913,Hong Kong,Hong Kong,male,59,02-02-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+914,Hong Kong,Hong Kong,female,60,02-01-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+915,Hong Kong,Hong Kong,male,71,02-05-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+916,Hong Kong,Hong Kong,male,37,1/30/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+917,Hong Kong,Hong Kong,male,66,1/31/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+918,Hong Kong,Hong Kong,female,37,02-02-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+919,Hong Kong,Hong Kong,male,75,02-03-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+920,Hong Kong,Hong Kong,male,51,02-03-2020,0,0,0,0,https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-12-20-intl-hnk/index.html
+921,Hong Kong,Hong Kong,male,43,1/29/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/13/P2020021300700.htm?fontSize=1
+922,Hong Kong,Hong Kong,female,67,1/31/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/13/P2020021300700.htm?fontSize=1
+923,Hong Kong,Hong Kong,male,37,02-08-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/13/P2020021300700.htm?fontSize=1
+924,Hong Kong,Hong Kong,female,41,NA,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3050681/coronavirus-hong-kong-confirms-three-news-cases
+925,Hong Kong,Hong Kong,male,70,02-02-2020,0,0,1,0,https://www.scmp.com/news/hong-kong/health-environment/article/3050681/coronavirus-hong-kong-confirms-three-news-cases
+926,Hong Kong,Hong Kong,female,NA,NA,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3050681/coronavirus-hong-kong-confirms-three-news-cases
+927,Hong Kong,Hong Kong,male,54,NA,0,0,0,0,https://news.rthk.hk/rthk/en/component/k2/1508878-20200216.htm
+928,Hong Kong,Hong Kong,male,69,02-08-2020,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3051077/coronavirus-domestic-helper-tests-positive-taking
+929,Hong Kong,Hong Kong,male,45,02-12-2020,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3051077/coronavirus-domestic-helper-tests-positive-taking
+930,Hong Kong,Hong Kong,female,46,02-08-2020,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3051077/coronavirus-domestic-helper-tests-positive-taking
+931,Hong Kong,Hong Kong,female,32,02-02-2020,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3051077/coronavirus-domestic-helper-tests-positive-taking
+932,Hong Kong,Hong Kong,male,58,NA,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3051077/coronavirus-domestic-helper-tests-positive-taking
+933,Hong Kong,Hong Kong,female,83,NA,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3051312/second-hongkonger-dies-after-becoming-infected
+934,Hong Kong,Hong Kong,female,83,2/14/2020,0,0,0,0,https://www.scmp.com/news/hong-kong/health-environment/article/3051312/second-hongkonger-dies-after-becoming-infected
+935,Hong Kong,Hong Kong,male,68,02-12-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+936,Hong Kong,Hong Kong,female,70,02-12-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+937,Hong Kong,Hong Kong,male,75,1/25/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+938,Hong Kong,Hong Kong,female,38,02-10-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+939,Hong Kong,Hong Kong,male,58,02-08-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+940,Hong Kong,Hong Kong,male,48,2/18/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+941,Hong Kong,Hong Kong,female,96,2/13/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+942,Hong Kong,Hong Kong,male,68,2/20/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+943,Hong Kong,Hong Kong,male,62,02-10-2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+944,Hong Kong,Hong Kong,female,80,02-08-2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+945,Hong Kong,Hong Kong,female,76,2/13/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+946,Hong Kong,Hong Kong,male,35,2/19/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+947,Hong Kong,Hong Kong,female,57,02-08-2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+948,Hong Kong,Hong Kong,female,68,2/19/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+949,Hong Kong,Hong Kong,female,59,2/24/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+950,Hong Kong,Hong Kong,female,58,02-04-2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+951,Hong Kong,Hong Kong,male,57,NA,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+952,Hong Kong,Hong Kong,female,57,NA,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+953,Hong Kong,Hong Kong,male,33,2/20/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+954,Hong Kong,Hong Kong,female,55,2/17/2020,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+955,Hong Kong,Hong Kong,male,24,NA,0,0,0,0,https://www.dh.gov.hk/textonly/eindex.html
+956,Hong Kong,Hong Kong,female,60,02-12-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/25/P2020022500772.htm
+957,Hong Kong,Hong Kong,female,49,2/18/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+958,Hong Kong,Hong Kong,female,21,02-12-2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+959,Hong Kong,Hong Kong,male,16,2/17/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+960,Hong Kong,Hong Kong,male,80,2/25/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+961,Hong Kong,Hong Kong,female,29,2/16/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+962,Hong Kong,Hong Kong,male,26,2/20/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+963,Hong Kong,Hong Kong,female,70,2/13/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+964,Hong Kong,Hong Kong,female,89,2/25/2020,0,0,0,0,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+965,Rome,Italy,male,NA,NA,1,0,0,0,https://www.thedailybeast.com/italy-confirms-two-cases-of-coronavirus
+966,Rome,Italy,female,NA,NA,1,0,0,0,https://www.thedailybeast.com/italy-confirms-two-cases-of-coronavirus
+967,Rome,Italy,male,35,NA,1,0,0,0,https://www.reuters.com/article/us-china-health-italy/third-case-of-coronavirus-confirmed-in-italy-health-ministry-idUSKBN2002X8
+968,Tyumen,Russia,female,NA,NA,1,0,0,1,https://www.scmp.com/news/world/russia-central-asia/article/3048483/russia-reports-first-two-coronavirus-cases-evacuate
+969,Zabaikalsky,Russia,male,NA,NA,1,0,0,1,https://www.scmp.com/news/world/russia-central-asia/article/3048483/russia-reports-first-two-coronavirus-cases-evacuate
+970,York,UK,NA,NA,NA,1,0,0,0,https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england
+971,York,UK,NA,NA,NA,1,0,0,0,https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england
+972,London,UK,male,53,NA,0,0,0,1,https://www.bbc.com/news/uk-51481469
+973,London,UK,NA,NA,NA,0,0,0,1,https://www.bbc.com/news/uk-51481470
+974,London,UK,male,NA,NA,0,0,0,1,https://www.bbc.com/news/uk-51481471
+975,London,UK,male,NA,NA,0,0,0,1,https://www.bbc.com/news/uk-51481472
+976,London,UK,male,NA,NA,0,0,0,1,https://www.bbc.com/news/uk-51481473
+977,London,UK,female,NA,NA,0,0,0,1,https://www.bbc.com/news/uk-51481474
+978,London,UK,female,NA,NA,0,0,0,0,https://www.bbc.com/news/uk-51481475
+979,UK,UK,NA,NA,NA,0,0,0,0,https://www.gov.uk/guidance/wuhan-novel-coronavirus-information-for-the-public#history
+980,UK,UK,NA,NA,NA,0,0,0,0,https://www.gov.uk/guidance/wuhan-novel-coronavirus-information-for-the-public#history
+981,UK,UK,NA,NA,NA,0,0,0,0,https://www.gov.uk/guidance/wuhan-novel-coronavirus-information-for-the-public#history
+982,UK,UK,NA,NA,NA,0,0,0,0,https://www.gov.uk/guidance/wuhan-novel-coronavirus-information-for-the-public#history
+983,London,UK,NA,NA,NA,0,0,0,0,https://www.mirror.co.uk/news/uk-news/breaking-two-more-brits-catch-21587176
+984,London,UK,NA,NA,NA,0,0,0,0,https://www.mirror.co.uk/news/uk-news/breaking-two-more-brits-catch-21587177
+985,Nortern Ireland,UK,NA,NA,NA,0,0,0,0,https://www.mirror.co.uk/news/uk-news/breaking-two-more-brits-catch-21587178
+986,UK,UK,NA,NA,NA,0,0,0,0,https://www.theguardian.com/world/live/2020/feb/28/coronavirus-live-updates-latest-news-china-wuhan-stock-markets-update
+987,UK,UK,NA,NA,NA,0,0,0,0,https://www.theguardian.com/world/live/2020/feb/28/coronavirus-live-updates-latest-news-china-wuhan-stock-markets-update
+988,Wales,UK,female,NA,NA,0,0,0,0,https://www.theguardian.com/world/live/2020/feb/28/coronavirus-live-updates-latest-news-china-wuhan-stock-markets-update
+989,UK,UK,male,NA,NA,0,0,0,0,https://www.theguardian.com/world/live/2020/feb/28/coronavirus-live-updates-latest-news-china-wuhan-stock-markets-update
+990,Kerala,India,female,NA,NA,1,0,0,0,https://economictimes.indiatimes.com/news/politics-and-nation/third-coronavirus-case-reported-from-india/articleshow/73895001.cms
+991,Alappuzha,India,NA,NA,NA,1,0,0,0,https://economictimes.indiatimes.com/news/politics-and-nation/third-coronavirus-case-reported-from-india/articleshow/73895001.cms
+992,Kerala,India,NA,NA,NA,1,0,0,0,https://economictimes.indiatimes.com/news/politics-and-nation/third-coronavirus-case-reported-from-india/articleshow/73895001.cms
+993,Manila,Phillipines,male,44,1/25/2020,0,1,1,0,https://www.doh.gov.ph/press-release/DOH-reveals-more-negative-2019-COVID-19-cases-confirms-first-COVID-19-ARD-death-in-PH
+994,Manila,Phillipines,female,38,NA,0,1,0,1,https://www.doh.gov.ph/press-release/DOH-reveals-more-negative-2019-COVID-19-cases-confirms-first-COVID-19-ARD-death-in-PH
+995,Phillipines,Phillipines,female,60,NA,1,0,0,0,https://www.doh.gov.ph/press-release/DOH-reveals-more-negative-2019-COVID-19-cases-confirms-first-COVID-19-ARD-death-in-PH
+996,Lapland,Finland,female,32,1/26/2020,0,1,0,0,https://www.hbl.fi/artikel/ett-fall-av-coronavirus-bekraftat-i-finland/
+997,Canary Islands,Spain,male,NA,NA,0,0,0,1,https://www.channelnewsasia.com/news/world/wuhan-virus-coronavirus-spain-first-case-12377104
+998,Mallorca,Spain,male,NA,NA,0,0,0,1,https://www.thelocal.es/20200210/british-father-in-mallorca-becomes-second-confirmed-case-of-coronavirus-in-spain
+999,Tenerife,Spain,male,69,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1000,Tenerife,Spain,female,NA,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1001,Barcelona,Spain,female,36,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1002,Madrid,Spain,NA,24,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1003,Castellon,Spain,male,31,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1004,Madrid,Spain,NA,NA,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1005,Tenerife,Spain,NA,NA,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1006,Tenerife,Spain,NA,NA,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1007,Barcelona,Spain,male,22,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1008,Andalusia,Spain,male,62,NA,0,0,0,0,https://www.thelocal.es/20200226/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1009,Tenerife,Spain,female,NA,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1010,Valencia,Spain,male,44,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1011,Madrid,Spain,NA,77,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1012,Madrid,Spain,NA,50,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1013,Barcelona,Spain,female,22,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1014,Castile and Leon,Spain,male,30,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1015,Castile and Leon,Spain,NA,18,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1016,Valencia,Spain,male,NA,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1017,Valencia,Spain,male,NA,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1018,Valencia,Spain,male,NA,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1019,Valencia,Spain,male,NA,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1020,Valencia,Spain,female,NA,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1021,Valencia,Spain,male,NA,NA,0,0,0,0,https://www.levante-emv.com/comunitat-valenciana/2020/02/27/coronavirus-valencia-nuevos-casos-infectados/1983062.html
+1022,Andalusia,Spain,male,28,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1023,Andalusia,Spain,male,42,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1024,Andalusia,Spain,male,53,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1025,Andalusia,Spain,NA,81,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1026,Andalusia,Spain,male,55,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1027,Andalusia,Spain,female,25,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1028,Andalusia,Spain,male,58,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1029,Madrid,Spain,NA,66,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1030,Zaragoza,Spain,female,27,NA,0,0,0,0,https://www.thelocal.es/20200228/covid-19-what-we-know-so-far-about-the-coronavirus-in-spain
+1031,Jonkoping,Sweden,female,25,1/27/2020,1,0,0,0,https://www.politico.eu/article/coronavirus-case-confirmed-in-finland-as-who-reconvenes-panel/
+1032,Belgium,Belgium,NA,NA,NA,1,0,0,0,https://www.washingtonexaminer.com/news/first-case-of-coronavirus-in-belgium-confirmed
+1033,Egypt,Egypt,NA,NA,NA,0,0,0,1,https://www.scmp.com/news/china/diplomacy/article/3050845/egypt-reports-first-case-coronavirus-africa-amid-fears-poorer
+1034,Qom,Iran,NA,NA,NA,0,0,1,0,https://abcnews.go.com/International/wireStory/iran-reports-cases-coronavirus-69065372
+1035,Qom,Iran,NA,NA,NA,0,0,1,0,https://abcnews.go.com/International/wireStory/iran-reports-cases-coronavirus-69065372
+1036,Qom,Iran,NA,NA,NA,0,0,1,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1037,Qom,Iran,NA,NA,NA,0,0,1,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1038,Araq,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1039,Qom,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1040,Qom,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1041,Qom,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1042,Qom,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1043,Qom,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1044,Qom,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1045,Qom,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1046,Tehran,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1047,Tehran,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1048,Tehran,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1049,Tehran,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1050,Guilan,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1051,Guilan,Iran,NA,NA,NA,0,0,0,0,http://behdasht.gov.ir/news/%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D9%88%DB%8C%D8%B1%D9%88%D8%B3/199807/%D8%AF%D8%B1+%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C+%DA%AF%D8%B0%D8%B4%D8%AA%D9%87+735+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%B9%D9%84%D8%A7%D8%A6%D9%85+%D8%B4%D8%A8%D9%87+%D8%A2%D9%86%D9%81%D9%84%D9%88%D8%A2%D9%86%D8%B2%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C+%D8%B4%D8%AF%D9%86%D8%AF+%D8%A8%D8%B1+%D8%A7%D8%B3%D8%A7%D8%B3+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%AA%D8%A7%DB%8C%D8%AC+%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4+%D9%87%D8%A7+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+13+%D9%85%D9%88%D8%B1%D8%AF+%D8%AF%DB%8C%DA%AF%D8%B1+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%D9%86%D8%B8%D8%B1+%D9%85%DB%8C+%D8%B1%D8%B3%D8%AF
+1052,Israel,Israel,female,NA,NA,0,0,0,0,https://www.timesofisrael.com/israel-confirms-first-coronavirus-case-as-cruise-ship-returnee-diagnosed/
+1053,Lebanon,Lebanon,female,45,NA,0,0,0,0,https://www.usnews.com/news/world/articles/2020-02-21/lebanon-confirms-first-case-of-coronavirus-two-more-suspected
+1054,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1055,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1056,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1057,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1058,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1059,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1060,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1061,Kuwait,Kuwait,NA,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1062,Kuwait,Kuwait,female,NA,NA,0,0,0,0,http://english.alarabiya.net/en/News/gulf/2020/02/25/Number-of-Kuwait-coronavirus-cases-rises-to-eight-KUNA.html
+1063,Bahrain,Bahrain,NA,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110968
+1064,Bahrain,Bahrain,NA,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110969
+1065,Bahrain,Bahrain,male,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110970
+1066,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110971
+1067,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110972
+1068,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110973
+1069,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110974
+1070,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110975
+1071,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110976
+1072,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110977
+1073,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110978
+1074,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110979
+1075,Bahrain,Bahrain,male,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110980
+1076,Bahrain,Bahrain,male,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110981
+1077,Bahrain,Bahrain,male,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110982
+1078,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110983
+1079,Bahrain,Bahrain,female,NA,NA,0,0,0,0,https://gulfnews.com/world/gulf/bahrain/bahrain-announces-23-cases-of-new-coronavirus-infection-1.1582636110984
+1080,Innsbruck,Austria,NA,24,NA,0,0,0,0,https://www.thejakartapost.com/news/2020/02/25/austria-reports-first-two-coronavirus-cases-after-italy-outbreak.html
+1081,Innsbruck,Austria,NA,24,NA,0,0,0,0,https://www.thejakartapost.com/news/2020/02/25/austria-reports-first-two-coronavirus-cases-after-italy-outbreak.html
+1082,Afghanistan,Afghanistan,NA,35,NA,0,0,0,0,https://www.foxnews.com/health/afghanistan-first-coronavirus-case-iran
+1083,Algeria,Algeria,male,NA,NA,0,0,0,0,https://www.scmp.com/news/china/society/article/3052457/algeria-reports-first-coronavirus-case-italian-citizen
+1084,Croatia,Croatia,male,NA,NA,0,0,0,0,https://www.reuters.com/article/us-croatia-coronavirus/croatia-confirms-its-first-case-of-coronavirus-infection-idUSKBN20J1OB
+1085,Bern,Switzerland,male,70,2/17/2020,0,0,0,0,https://www.reuters.com/article/uk-switzerland-coronavirus/swiss-authorities-confirm-first-case-of-coronavirus-idUSKBN20J1ZO
